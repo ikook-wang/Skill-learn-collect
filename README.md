@@ -18,7 +18,7 @@
 [Appium](#appium)&emsp;&emsp;
 [框架](#kuangjia)&emsp;&emsp;
 [技术漫谈](#mantan)&emsp;&emsp;
-[其他收集类GitHub地址](#qita)&emsp;&emsp
+[其他收集类GitHub地址](#qita)&emsp;&emsp;
 
 
 
