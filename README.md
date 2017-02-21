@@ -1,5 +1,5 @@
 # Skill-learn-collect
-收集在学习和提高技术过程中遇到的比较有价值的网站、博客、视频等，方便自己查阅。
+收集在学习和提高技术过程中遇到的比较有价值的网站、文档、Blog等，方便自己查阅。
 
 
 <h2 id='tags'>Tags</h2>
@@ -8,6 +8,7 @@
 [Java](#java)&emsp;&emsp;
 [Kotlin](#kotlin)&emsp;&emsp;
 [设计模式](#shejimoshi)&emsp;&emsp;
+[Android/Android Studio相关](#android studio)&emsp;&emsp;
 [数据库](#sql)&emsp;&emsp;
 [Git](#git)&emsp;&emsp;
 [GitHub](#github)&emsp;&emsp;
@@ -24,7 +25,7 @@
 
 <h3 id='android'>Android</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
- ##### Android Stuido 相关
+ <h5 id='android studio'>Android Studio 相关</h5>
 ###### [Android Studio系列教程一 —- 下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
 ###### [Android Studio系列教程二 —- 基本设置与运行](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)
 ###### [Android Studio系列教程四 —- Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
