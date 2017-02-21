@@ -70,10 +70,26 @@
 
 <h3 id='java'>Java</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
-###### [假如时光能够倒流， 我会这么学习Java](http://mp.weixin.qq.com/s/3Yu-A_k-NznTGv-JTlDjRA)
+###### [一分钟秒懂注解](https://dreamerhome.github.io/2016/08/02/annotaion/)
+###### [浅谈依赖注入与控制反转](http://hersface.com/page/DI_IoC.html)
+###### [公共技术点之 Java 反射 Reflection](http://p.codekk.com/blogs/detail/5596953ed6459ae7934997c5)
+###### [浅谈Java回调机制](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=403109183&idx=1&sn=2909a7702c12c4ada2c908263626b642#rd)
+###### [知道这20个正则表达式，能让你少写1000行代码](http://www.jianshu.com/p/e7bb97218946)
+###### [公共技术点之 Java 注解 Annotation](http://p.codekk.com/blogs/detail/54cfab086c4761e5001b253b)
+###### [反射、注解与依赖注入总结](http://www.jianshu.com/p/24820bf3df5c)
+###### [JAVA decompiler collections](http://www.figotan.org/2015/11/24/java-decompiler-collections/)
+###### [Android 中的 Enum 到底占多少内存？该如何用？](http://www.jianshu.com/p/6052cd4ea9ae)
+###### [infoQ——java系列blog（成富）](http://www.infoq.com/cn/author/%E6%88%90%E5%AF%8C#文章)
+###### [Java中的多线程你只要看这一篇就够了](http://www.jianshu.com/p/40d4c7aebd66)
+###### [为什么说DOM操作很慢](https://leozdgao.me/why-dom-slow/)
+###### [Android 多线程编程的总结](http://www.diycode.cc/topics/213)
+###### [第4章 类和接口](http://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872269&idx=1&sn=3e96d3e374e3c958041383f653d8b2ab#rd)
+###### [【深入理解Java虚拟机】垃圾回收机制](http://blog.csdn.net/shakespeare001/article/details/51749788)
+###### [Java对象锁和类锁全面解析（多线程synchronized关键字）](http://www.importnew.com/20444.html)
+###### [探究Java中的克隆](http://droidyue.com/blog/2016/05/15/dive-into-java-clone/)
+###### [理解Java中的ThreadLocal](http://droidyue.com/blog/2016/03/13/learning-threadlocal-in-java/)
 ###### [Java 帝国之Java bean (上）](http://mp.weixin.qq.com/s/w_U7MGwDign59BJ5XJvNVQ)
 ###### [Java 帝国之Java bean（下）](http://mp.weixin.qq.com/s/PtmrlDvzPVl76hjfscFihw)
-###### [关于Java 初学者需要知道的10件事](https://mp.weixin.qq.com/s/3nuEQP8Wz6MO7QSp2Xbp2A)
 
 - #### 视频
 ###### [Servlet+JSP（JavaEE开发进阶Ⅰ）](http://study.163.com/course/introduction.htm?courseId=1002907014#/courseDetail)
@@ -208,11 +224,13 @@
 
 <h3 id='mantan'>技术漫谈</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [Android学习之路 - stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+###### [假如时光能够倒流， 我会这么学习Java](http://mp.weixin.qq.com/s/3Yu-A_k-NznTGv-JTlDjRA)
 ###### [如何自学Android编程？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402135493&idx=1&sn=c2e040f95551082cbe2bdf7182dc3e9f&scene=21#wechat_redirect)
 ###### [如何自学Android](https://segmentfault.com/a/1190000005059402)
 ###### [一个2年安卓开发者的一些忠告](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/1006/6659.html)
 ###### [如何自学Android - 技术文摘 - LUPA开源社区](http://www.lupaworld.com/article-258258-1.html)
 ###### [程序员之路-学习经验总结分享](http://blog.csdn.net/cjpx00008/article/details/55252916)
+###### [关于Java 初学者需要知道的10件事](https://mp.weixin.qq.com/s/3nuEQP8Wz6MO7QSp2Xbp2A)
 
 
 <h3 id='qita'>其他收集类GitHub地址</h3>[:arrow_up:](#tags) : 点击回到Tags
