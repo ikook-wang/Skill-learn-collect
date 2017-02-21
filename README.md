@@ -7,6 +7,7 @@
 
 <h2 id='tags'>Tags</h3>
 
+[Kotlin](#kotlin)&emsp;&emsp;
 [Git](#git)&emsp;&emsp;
 [Appium](#appium)&emsp;&emsp;
 
@@ -17,7 +18,7 @@
 ###### [阿里云测Appium文档](https://mqc.aliyun.com/doc.htm?id=15)
 ###### [Appium官方Tutorial](http://appium.io/slate/en/tutorial/android.html?java#)
 ###### [Windows下部署Appium教程（Android App自动化测试框架搭建）](https://my.oschina.net/outcat/blog/491529)
-###### [ Appium常用方法介绍](http://blog.csdn.net/birdlee0524/article/details/52461347
+###### [Appium常用方法介绍](http://blog.csdn.net/birdlee0524/article/details/52461347)
 
 
 <h3 id='git'>Git</h5>[:arrow_up:](#tags) : 点击回到Tags
