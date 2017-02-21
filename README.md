@@ -11,6 +11,7 @@
 [Java](#java)&emsp;&emsp;
 [Kotlin](#kotlin)&emsp;&emsp;
 [设计模式](#shejimoshi)&emsp;&emsp;
+[数据库](#sql)&emsp;&emsp;
 [Git](#git)&emsp;&emsp;
 [Appium](#appium)&emsp;&emsp;
 
@@ -42,6 +43,12 @@
 ###### [【女朋友系列之找女朋友篇】简单工厂模式，工厂模式，抽象工厂模式](http://www.jianshu.com/p/3f824a91d73b)
 ###### [设计模式速谈：二、简单工厂模式](https://www.yhspy.com/blog/182/)
 ###### [Android 设计模式](http://m.blog.csdn.net/article/details?plg_nld=1&id=24985607&plg_auth=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&plg_dev=1)
+
+
+<h3 id='sql'>数据库</h3>[:arrow_up:](#tags) : 点击回到Tags
+###### [SQLite 官方文档](http://www.sqlite.org/docs.html)
+###### [SQL基础语句汇总](http://www.jcodecraeer.com/a/shujuku/2015/1024/3619.html)
+###### [Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/)
 
 
 <h3 id='git'>Git</h3>[:arrow_up:](#tags) : 点击回到Tags
