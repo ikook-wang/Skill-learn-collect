@@ -3,11 +3,9 @@
 
 
 
-
-
 <h2 id='tags'>Tags</h2>
 
-
+[Android](#android)&emsp;&emsp;
 [Java](#java)&emsp;&emsp;
 [Kotlin](#kotlin)&emsp;&emsp;
 [设计模式](#shejimoshi)&emsp;&emsp;
@@ -16,7 +14,51 @@
 [Appium](#appium)&emsp;&emsp;
 
 
+
+<h3 id='android'>Android</h3>[:arrow_up:](#tags) : 点击回到Tags
+- #### Blogs
+  - ##### Android Stuido
+###### [Android Studio系列教程一 —- 下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
+###### [Android Studio系列教程二 —- 基本设置与运行](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)
+###### [Android Studio系列教程四 —- Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
+###### [AS技巧合集「常用技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=1&sn=a8fd70a65ff3973758e4a7975c361139&scene=21#wechat_redirect)
+###### [AS技巧合集「编码技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=2&sn=136e2a77c9bdd2cf971143d7f35e57d2&scene=21#wechat_redirect)
+###### [AS技巧合集「调试技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=3&sn=3a0f99a753e7e8372cb98b696542d2cb&scene=21#wechat_redirect)
+  - ##### Material Design
+###### [Material Design 官方文档](https://material.io/guidelines/)
+###### [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
+###### [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
+###### [Android Material Design系列之主题样式介绍说明等](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057851&idx=1&sn=fa8351fa06005314635e79abc45ec171#rd)
+###### [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
+##### [Material Design技术分享](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231829&idx=1&sn=2418c741e7f0e41f6ac4fff4dc2de6f0&scene=1&srcid=0526kJT3uB1vIPjVXTVrSKjW&pass_ticket=muxDwCVjxMK%2Fz1ncol%2B4QyK94pZsvdn%2FSA4JigA6HWU1Hf%2Fr6BUURvZ002TBW6Oq#rd)
+##### [Android Material Design系列之Toolbar](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057635&idx=1&sn=bc8ea475db4f215226367eed71105f35&scene=0#wechat_redirect)
+##### [最能解决你的痛点问题，也是你最需要的，尽在Material Design 系列这篇](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057738&idx=1&sn=f0b212bfe3343b8f707f32bfefbbda0b#wechat_redirect)
+##### [Material designed password](https://github.com/SubhrajyotiSen/PasswordView)
+
+- #### 视频
+###### [Android开发知识体系图-[极客学院]](http://www.jikexueyuan.com/path/android
+###### [Android-慕课网学习路径](http://www.imooc.com/course/programdetail/pid/33)
+###### [Android 开发工程师-优达学城](https://cn.udacity.com/android/)
+
+- #### 文档
+###### [Android Developer官方文档](https://developer.android.com/index.html)
+###### [Android官方培训课程中文版(v0.9.7)](http://hukai.me/android-training-course-in-chinese/index.html)
+###### [Android 官方中文(部分)培训文档](https://developer.android.google.cn/training/index.html)
+###### [wan android 知识体系](http://www.xueandroid.com/hierarchy?courseId=13)
+
+- #### 工具
+###### [Android Pixel计算器](http://angrytools.com/android/pixelcalc/?winzoom=1)
+###### [有了这10款逆天级效率工具，每天提前下班2小时!#DEMO8年度产品盘点#](http://www.jianshu.com/p/a3312f1c7068)
+###### [ClassyShark——apk分析利器](https://mp.weixin.qq.com/s/zieCldmExPYr_-9V6zKC3A)
+
+
 <h3 id='java'>Java</h3>[:arrow_up:](#tags) : 点击回到Tags
+- #### Blogs
+###### [假如时光能够倒流， 我会这么学习Java](http://mp.weixin.qq.com/s/3Yu-A_k-NznTGv-JTlDjRA)
+###### [Java 帝国之Java bean (上）](http://mp.weixin.qq.com/s/w_U7MGwDign59BJ5XJvNVQ)
+###### [Java 帝国之Java bean（下）](http://mp.weixin.qq.com/s/PtmrlDvzPVl76hjfscFihw)
+###### [关于Java 初学者需要知道的10件事](https://mp.weixin.qq.com/s/3nuEQP8Wz6MO7QSp2Xbp2A)
+
 - #### 视频
 ###### [Servlet+JSP（JavaEE开发进阶Ⅰ）](http://study.163.com/course/introduction.htm?courseId=1002907014#/courseDetail)
 ###### [Java课程 Java300集大型视频教程](http://study.163.com/course/introduction.htm?courseId=343001#/courseDetail)
