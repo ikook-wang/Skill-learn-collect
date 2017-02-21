@@ -12,8 +12,12 @@
 [数据库](#sql)&emsp;&emsp;
 [Git](#git)&emsp;&emsp;
 [GitHub](#github)&emsp;&emsp;
+[MVP](#mvp)&emsp;&emsp;
 [开源项目](#kaiyuanxiangmu)&emsp;&emsp;
+[效率工具](#xiaolv)&emsp;&emsp;
 [Appium](#appium)&emsp;&emsp;
+[框架](#kuangjia)&emsp;&emsp;
+[技术漫谈](#mantan)&emsp;&emsp;
 
 
 
@@ -26,9 +30,8 @@
 ###### [AS技巧合集「常用技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=1&sn=a8fd70a65ff3973758e4a7975c361139&scene=21#wechat_redirect)
 ###### [AS技巧合集「编码技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=2&sn=136e2a77c9bdd2cf971143d7f35e57d2&scene=21#wechat_redirect)
 ###### [AS技巧合集「调试技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=3&sn=3a0f99a753e7e8372cb98b696542d2cb&scene=21#wechat_redirect)
+ 
  ##### Material Design 相关
-###### [Material Design 官方文档](https://material.io/guidelines/)
-###### [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 ###### [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 ###### [Android Material Design系列之主题样式介绍说明等](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057851&idx=1&sn=fa8351fa06005314635e79abc45ec171#rd)
 ###### [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
@@ -36,8 +39,15 @@
 ###### [Android Material Design系列之Toolbar](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057635&idx=1&sn=bc8ea475db4f215226367eed71105f35&scene=0#wechat_redirect)
 ###### [最能解决你的痛点问题，也是你最需要的，尽在Material Design 系列这篇](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057738&idx=1&sn=f0b212bfe3343b8f707f32bfefbbda0b#wechat_redirect)
 ###### [Material designed password](https://github.com/SubhrajyotiSen/PasswordView)
+ 
  ##### View&UI 相关
 ###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
+###### [RecyclerView使用详解（一）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
+###### [Android RecyclerView 使用完全解析 体验艺术般的控件](http://blog.csdn.net/lmj623565791/article/details/45059587)
+###### [RecyclerView使用介绍-泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2004.html)
+###### [这是一篇Android RecyclerView使用介绍哦](http://www.jianshu.com/p/12ec590f6c76#)
+###### [ RecyclerView 入门教程（超详细）](http://blog.csdn.net/u013647382/article/details/51901103)
+
 
 - #### 视频
 ###### [Android开发知识体系图-[极客学院]](http://www.jikexueyuan.com/path/android)
@@ -49,12 +59,8 @@
 ###### [Android官方培训课程中文版(v0.9.7)](http://hukai.me/android-training-course-in-chinese/index.html)
 ###### [Android 官方中文(部分)培训文档](https://developer.android.google.cn/training/index.html)
 ###### [wan android 知识体系](http://www.xueandroid.com/hierarchy?courseId=13)
-
-- #### 工具
-###### [Android Pixel计算器](http://angrytools.com/android/pixelcalc/?winzoom=1)
-###### [有了这10款逆天级效率工具，每天提前下班2小时!#DEMO8年度产品盘点#](http://www.jianshu.com/p/a3312f1c7068)
-###### [ClassyShark——apk分析利器](https://mp.weixin.qq.com/s/zieCldmExPYr_-9V6zKC3A)
-
+###### [Material Design 官方文档](https://material.io/guidelines/)
+###### [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 
 <h3 id='java'>Java</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
@@ -130,11 +136,35 @@
 ###### [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 
 
+<h3 id='mvp'>MVP</h3>[:arrow_up:](#tags) : 点击回到Tags
+###### [从零开始的Android新项目3 - MVPVM in Action, 谁告诉你MVP和MVVM是互斥的](http://blog.zhaiyifan.cn/2016/03/16/android-new-project-from-0-p3/)
+###### [todo-mvp--Google官方MVP推荐写法](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)
+###### [一步一步实现Android的MVP框架](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577546&idx=1&sn=e10be159645a3aa8f6d6f209420fb412&scene=0#wechat_redirect)
+###### [Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd)
+###### [MVP 实现的 Android 基础项目架构](https://github.com/xitu/gold-miner/blob/master/TODO/android-basic-project-architecture-for-mvp.md)
+###### [如何设计MVP中的Presentation层](http://blog.chengdazhi.com/index.php/115)
+###### [解读Android官方MVP项目单元测试](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0425/4178.html)
+###### [google官方架构MVP解析与实战-（从零开始搭建android框架系列（3））](http://www.jianshu.com/p/569ab68da482)
+###### [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0513/4260.html)
+###### [Android MVP+Retrofit+RxJava实践小结](http://wuxiaolong.me/2016/06/12/mvpRetrofitRxjava/)	
+###### [android MVP模式介绍与实战](http://dahei.me/2016/06/22/mvp/android%20MVP%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E4%B8%8E%E5%AE%9E%E6%88%98/)
+###### [（Basic框架）Android中实现mvp模式的新思路](http://www.jianshu.com/p/31a202c0c264)
+###### [android MVP 架构思路](http://mp.weixin.qq.com/s?__biz=MzI1MjMyOTU2Ng==&mid=2247483865&idx=1&sn=28d3c2f12138e5db0b0245efb1825d4f#rd)
+
+
 <h3 id='kaiyuanxiangmu'>开源项目</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [GitHub Top 100的Android开源库](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402675429&idx=1&sn=ba3afd2069004b220eaa8a77fdecbaf7#rd)
 ###### [GitHub 排名前 100 的安卓、iOS项目简介](http://www.devstore.cn/essay/essayInfo/6485.html)
 ###### [Facebook开源软件列表](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597383&idx=1&sn=a867ee13f294d38d02313a4c58d3da48&scene=1&srcid=06056GdF0vD6Jp3k7AfdizSn&from=groupmessage&isappinstalled=0#wechat_redirect)
 ###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
+###### [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project)
+###### [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
+
+
+<h3 id='xiaolv'>效率工具</h3>[:arrow_up:](#tags) : 点击回到Tags
+###### [Android Pixel计算器](http://angrytools.com/android/pixelcalc/?winzoom=1)
+###### [有了这10款逆天级效率工具，每天提前下班2小时!#DEMO8年度产品盘点#](http://www.jianshu.com/p/a3312f1c7068)
+###### [ClassyShark——apk分析利器](https://mp.weixin.qq.com/s/zieCldmExPYr_-9V6zKC3A)
 
 
 <h3 id='appium'>Appium</h3>[:arrow_up:](#tags) : 点击回到Tags
@@ -145,6 +175,18 @@
 ###### [Appium常用方法介绍](http://blog.csdn.net/birdlee0524/article/details/52461347)
 
 
+<h3 id='kuangjia'>框架</h3>[:arrow_up:](#tags) : 点击回到Tags
+###### [Android通用流行框架大全](https://segmentfault.com/a/1190000005073746)
+###### [Android开发常用开源框架推荐](http://www.jianshu.com/p/deb55cf2f0c1)
+###### [android-architecture(Google 官方推荐架构写法)](https://github.com/googlesamples/android-architecture/tree/master)
+
+
+<h3 id='mantan'>技术漫谈</h3>[:arrow_up:](#tags) : 点击回到Tags
+###### [Android学习之路 - stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+###### [如何自学Android编程？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402135493&idx=1&sn=c2e040f95551082cbe2bdf7182dc3e9f&scene=21#wechat_redirect)
+###### [如何自学Android](https://segmentfault.com/a/1190000005059402)
+###### [一个2年安卓开发者的一些忠告](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/1006/6659.html)
+###### [如何自学Android - 技术文摘 - LUPA开源社区](http://www.lupaworld.com/article-258258-1.html)
 
 
 
