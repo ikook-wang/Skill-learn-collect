@@ -17,14 +17,14 @@
 
 <h3 id='android'>Android</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
-  ##### Android Stuido
+  ##### Android Stuido 相关
 ###### [Android Studio系列教程一 —- 下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
 ###### [Android Studio系列教程二 —- 基本设置与运行](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)
 ###### [Android Studio系列教程四 —- Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
 ###### [AS技巧合集「常用技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=1&sn=a8fd70a65ff3973758e4a7975c361139&scene=21#wechat_redirect)
 ###### [AS技巧合集「编码技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=2&sn=136e2a77c9bdd2cf971143d7f35e57d2&scene=21#wechat_redirect)
 ###### [AS技巧合集「调试技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=3&sn=3a0f99a753e7e8372cb98b696542d2cb&scene=21#wechat_redirect)
-  ##### Material Design
+  ##### Material Design 相关
 ###### [Material Design 官方文档](https://material.io/guidelines/)
 ###### [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 ###### [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
@@ -36,7 +36,7 @@
 ##### [Material designed password](https://github.com/SubhrajyotiSen/PasswordView)
 
 - #### 视频
-###### [Android开发知识体系图-[极客学院]](http://www.jikexueyuan.com/path/android
+###### [Android开发知识体系图-[极客学院]](http://www.jikexueyuan.com/path/android)
 ###### [Android-慕课网学习路径](http://www.imooc.com/course/programdetail/pid/33)
 ###### [Android 开发工程师-优达学城](https://cn.udacity.com/android/)
 
