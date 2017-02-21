@@ -10,5 +10,5 @@
 [Appium](#appium)&emsp;&emsp;
 
 
-<h3 id='appium'>Appium</h5>[:arrow_up:](#tags)：点击回到Tags
+<h3 id='appium'>Appium</h5>[:arrow_up:](#tags):点击回到Tags
 ###### [ Appium 简明教程 (持续更新)](https://testerhome.com/topics/1045)
