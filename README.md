@@ -17,14 +17,14 @@
 
 <h3 id='android'>Android</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
-  - ##### Android Stuido
+  ##### Android Stuido
 ###### [Android Studio系列教程一 —- 下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
 ###### [Android Studio系列教程二 —- 基本设置与运行](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)
 ###### [Android Studio系列教程四 —- Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
 ###### [AS技巧合集「常用技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=1&sn=a8fd70a65ff3973758e4a7975c361139&scene=21#wechat_redirect)
 ###### [AS技巧合集「编码技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=2&sn=136e2a77c9bdd2cf971143d7f35e57d2&scene=21#wechat_redirect)
 ###### [AS技巧合集「调试技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=3&sn=3a0f99a753e7e8372cb98b696542d2cb&scene=21#wechat_redirect)
-  - ##### Material Design
+  ##### Material Design
 ###### [Material Design 官方文档](https://material.io/guidelines/)
 ###### [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 ###### [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
@@ -94,6 +94,7 @@
 
 
 <h3 id='git'>Git</h3>[:arrow_up:](#tags) : 点击回到Tags
+###### [Git学习总结](http://ikookblog.com/2016/10/15/Git%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
 ###### [ProGit中文版](https://git-scm.com/book/zh/v2)
 ###### [廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 ###### [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
