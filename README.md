@@ -2,7 +2,6 @@
 收集在学习和提高技术过程中遇到的比较有价值的网站、博客、视频等，方便自己查阅。
 
 
-
 <h2 id='tags'>Tags</h2>
 
 [Android](#android)&emsp;&emsp;
@@ -14,10 +13,12 @@
 [GitHub](#github)&emsp;&emsp;
 [MVP](#mvp)&emsp;&emsp;
 [开源项目](#kaiyuanxiangmu)&emsp;&emsp;
+[Linux](#linux)&emsp;&emsp;
 [效率工具](#xiaolv)&emsp;&emsp;
 [Appium](#appium)&emsp;&emsp;
 [框架](#kuangjia)&emsp;&emsp;
 [技术漫谈](#mantan)&emsp;&emsp;
+[其他收集类GitHub地址](#qita)&emsp;&emsp
 
 
 
@@ -41,13 +42,13 @@
 ###### [Material designed password](https://github.com/SubhrajyotiSen/PasswordView)
  
  ##### View&UI 相关
+###### [Android RecyclerView 顶部悬浮实现](http://www.jianshu.com/p/c596f2e6f587)
 ###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
 ###### [RecyclerView使用详解（一）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
 ###### [Android RecyclerView 使用完全解析 体验艺术般的控件](http://blog.csdn.net/lmj623565791/article/details/45059587)
 ###### [RecyclerView使用介绍-泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2004.html)
 ###### [这是一篇Android RecyclerView使用介绍哦](http://www.jianshu.com/p/12ec590f6c76#)
 ###### [ RecyclerView 入门教程（超详细）](http://blog.csdn.net/u013647382/article/details/51901103)
-
 
 - #### 视频
 ###### [Android开发知识体系图-[极客学院]](http://www.jikexueyuan.com/path/android)
@@ -61,6 +62,8 @@
 ###### [wan android 知识体系](http://www.xueandroid.com/hierarchy?courseId=13)
 ###### [Material Design 官方文档](https://material.io/guidelines/)
 ###### [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
+###### [Android 中文API](http://www.android-doc.com/index.html)
+
 
 <h3 id='java'>Java</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
@@ -73,11 +76,13 @@
 ###### [Servlet+JSP（JavaEE开发进阶Ⅰ）](http://study.163.com/course/introduction.htm?courseId=1002907014#/courseDetail)
 ###### [Java课程 Java300集大型视频教程](http://study.163.com/course/introduction.htm?courseId=343001#/courseDetail)
 ###### [JavaWeb工程师-[极客学院]](http://ke.jikexueyuan.com/zhiye/javaweb/)
+###### [JavaEE视频教程](http://study.163.com/course/introduction/320027.htm#/courseDetail)
 
 - #### 文档
 ###### [Java 官方Tutorial](http://docs.oracle.com/javase/tutorial/)
 ###### [The Java® Language Specification](http://docs.oracle.com/javase/specs/jls/se8/html/index.html)
 ###### [Java1.8 API在线文档](http://docs.oracle.com/javase/8/docs/api/index.html)
+###### [Java相关Wiki-[极客学院]](http://wiki.jikexueyuan.com/list/java/)
 
 
 <h3 id='kotlin'>Kotlin</h3>[:arrow_up:](#tags) : 点击回到Tags
@@ -159,12 +164,27 @@
 ###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
 ###### [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project)
 ###### [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
+###### [Android开源项目大全之工具库 ](http://www.neast.cn/forum.php?mod=viewthread&tid=5487)
+###### [GitHub开源项目总结](http://neast.cn/forum.php?mod=viewthread&tid=5377)
+###### [Android开发人员不得不收集的代码](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md)
+
+
+<h3 id='linux'>Linux</h3>[:arrow_up:](#tags) : 点击回到Tags
+  - #### Blogs
+###### [非常全面的Linux知识点总结](http://www.codeceo.com/article/linux-tips.html)
+###### [我是如何学习Linux的](https://www.sdk.cn/news/3230)
+###### [Linux中查找命令总结](http://www.36nu.com/post/124.html)
+###### [ubuntu 工具 -- 5分钟入手Terminator](http://www.jianshu.com/p/cee2de32ca28)
+
+  - #### 视频
+###### [Linux服务器基础](http://study.163.com/course/introduction.htm?courseId=788001#/courseDetail)
 
 
 <h3 id='xiaolv'>效率工具</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [Android Pixel计算器](http://angrytools.com/android/pixelcalc/?winzoom=1)
 ###### [有了这10款逆天级效率工具，每天提前下班2小时!#DEMO8年度产品盘点#](http://www.jianshu.com/p/a3312f1c7068)
 ###### [ClassyShark——apk分析利器](https://mp.weixin.qq.com/s/zieCldmExPYr_-9V6zKC3A)
+###### [Au开发者工具](http://eiyou.us/)
 
 
 <h3 id='appium'>Appium</h3>[:arrow_up:](#tags) : 点击回到Tags
@@ -179,6 +199,8 @@
 ###### [Android通用流行框架大全](https://segmentfault.com/a/1190000005073746)
 ###### [Android开发常用开源框架推荐](http://www.jianshu.com/p/deb55cf2f0c1)
 ###### [android-architecture(Google 官方推荐架构写法)](https://github.com/googlesamples/android-architecture/tree/master)
+###### [ButterKnife-view注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)
+###### [LeakCanary 中文使用说明](https://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
 
 
 <h3 id='mantan'>技术漫谈</h3>[:arrow_up:](#tags) : 点击回到Tags
@@ -187,8 +209,10 @@
 ###### [如何自学Android](https://segmentfault.com/a/1190000005059402)
 ###### [一个2年安卓开发者的一些忠告](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/1006/6659.html)
 ###### [如何自学Android - 技术文摘 - LUPA开源社区](http://www.lupaworld.com/article-258258-1.html)
+###### [程序员之路-学习经验总结分享](http://blog.csdn.net/cjpx00008/article/details/55252916)
 
 
-
-
-
+<h3 id='qita'>其他收集类GitHub地址</h3>[:arrow_up:](#tags) : 点击回到Tags
+###### [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
+###### [Android开发资源汇总整理](https://github.com/MobDevGroup/AndroidDevelopmentTutorial)
+###### [Android 学习资料收集](https://github.com/Freelander/Android_Data)
