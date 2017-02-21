@@ -27,22 +27,6 @@
 
 <h3 id='android'>Android</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
- <h5 id='android-studio'>Android Studio 相关</h5>
-###### [Android Studio系列教程一 —- 下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
-###### [Android Studio系列教程二 —- 基本设置与运行](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)
-###### [Android Studio系列教程四 —- Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
-###### [AS技巧合集「常用技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=1&sn=a8fd70a65ff3973758e4a7975c361139&scene=21#wechat_redirect)
-###### [AS技巧合集「编码技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=2&sn=136e2a77c9bdd2cf971143d7f35e57d2&scene=21#wechat_redirect)
-###### [AS技巧合集「调试技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=3&sn=3a0f99a753e7e8372cb98b696542d2cb&scene=21#wechat_redirect)
- 
- <h5 id='material-design'>Material Design 相关</h5>
-###### [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
-###### [Android Material Design系列之主题样式介绍说明等](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057851&idx=1&sn=fa8351fa06005314635e79abc45ec171#rd)
-###### [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
-###### [Material Design技术分享](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231829&idx=1&sn=2418c741e7f0e41f6ac4fff4dc2de6f0&scene=1&srcid=0526kJT3uB1vIPjVXTVrSKjW&pass_ticket=muxDwCVjxMK%2Fz1ncol%2B4QyK94pZsvdn%2FSA4JigA6HWU1Hf%2Fr6BUURvZ002TBW6Oq#rd)
-###### [Android Material Design系列之Toolbar](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057635&idx=1&sn=bc8ea475db4f215226367eed71105f35&scene=0#wechat_redirect)
-###### [最能解决你的痛点问题，也是你最需要的，尽在Material Design 系列这篇](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057738&idx=1&sn=f0b212bfe3343b8f707f32bfefbbda0b#wechat_redirect)
-###### [Material designed password](https://github.com/SubhrajyotiSen/PasswordView)
  
  <h5 id='view-ui'>View&UI 相关</h5>
 ###### [Android RecyclerView 顶部悬浮实现](http://www.jianshu.com/p/c596f2e6f587)
@@ -53,6 +37,42 @@
 ###### [这是一篇Android RecyclerView使用介绍哦](http://www.jianshu.com/p/12ec590f6c76#)
 ###### [ RecyclerView 入门教程（超详细）](http://blog.csdn.net/u013647382/article/details/51901103)
 
+ <h5 id='material-design'>Material Design 相关</h5>
+###### [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
+###### [Android Material Design系列之主题样式介绍说明等](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057851&idx=1&sn=fa8351fa06005314635e79abc45ec171#rd)
+###### [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
+###### [Material Design技术分享](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231829&idx=1&sn=2418c741e7f0e41f6ac4fff4dc2de6f0&scene=1&srcid=0526kJT3uB1vIPjVXTVrSKjW&pass_ticket=muxDwCVjxMK%2Fz1ncol%2B4QyK94pZsvdn%2FSA4JigA6HWU1Hf%2Fr6BUURvZ002TBW6Oq#rd)
+###### [Android Material Design系列之Toolbar](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057635&idx=1&sn=bc8ea475db4f215226367eed71105f35&scene=0#wechat_redirect)
+###### [最能解决你的痛点问题，也是你最需要的，尽在Material Design 系列这篇](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057738&idx=1&sn=f0b212bfe3343b8f707f32bfefbbda0b#wechat_redirect)
+###### [Material designed password](https://github.com/SubhrajyotiSen/PasswordView)
+
+ <h5 id='android-studio'>Android Studio 相关</h5>
+###### [Android Studio系列教程一 —- 下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
+###### [Android Studio系列教程二 —- 基本设置与运行](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)
+###### [Android Studio系列教程四 —- Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
+###### [AS技巧合集「常用技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=1&sn=a8fd70a65ff3973758e4a7975c361139&scene=21#wechat_redirect)
+###### [AS技巧合集「编码技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=2&sn=136e2a77c9bdd2cf971143d7f35e57d2&scene=21#wechat_redirect)
+###### [AS技巧合集「调试技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=3&sn=3a0f99a753e7e8372cb98b696542d2cb&scene=21#wechat_redirect)
+###### [Android Studio 掌握这些调试技巧，Debug能力不能再高啦](http://www.jianshu.com/p/985f788fae2c)
+###### [Android Studio五分钟带你从菜鸟到高级调试](http://blog.csdn.net/u013132758/article/details/51915575)
+###### [Android Studio最全快捷键以及演示](http://fvaryu.github.io/2016/07/22/as-keymap/)
+###### [[精品推荐]Android Studio插件整理](https://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651433634&idx=1&sn=e5f65d8a0a2b85f7c22d8ccd4cf96a39&scene=1&srcid=0721vQcDls3Ak34dZY1y3h7o&key=77421cf58af4a653e4f55f04cf114492e73a17a2a7d56a0e523c62f16c003b19cdab0cf3a902023d7cbe2af60a58c71d&ascene=0&uin=MjAyNzY1NTU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=ihQKTSTYwhIquv1%2B6HyhJs3I0vZz0qtIoTVci3l%2BikU%3D)
+###### [多module合成单一module技巧](http://www.jianshu.com/p/9b022951571c)
+###### [Android Studio相见恨晚的操作锦集](http://www.jianshu.com/p/bc8f6bfe12c6?)
+###### [Android Studio Plugin is too old、Gradle version 2.10 is required问题解决方法](http://yanziyu.top/2016/03/21/as-issue/)
+###### [Android Studio 2.0 稳定版 新特性简介（中文）](http://chinagdg.org/2016/04/android-studio-2-0/)
+###### [配置你的 Android Studio](http://gold.xitu.io/entry/570b79f071cfe4005fa5cda5)
+###### [10个你可能不知道的 Android Studio技巧](http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2016/0424/4172.html)
+###### [使用新版Android Studio检测内存泄露和性能](http://www.jianshu.com/p/216b03c22bb8)
+###### [AndroidStudio上面最好用的插件](http://www.jianshu.com/p/d76b60a3883d)
+###### [Android必知必会-Android Studio修改包名](http://blog.csdn.net/ys743276112/article/details/51684294)
+###### [Android Studio必备插件](http://hjxandhmr.github.io/2016/06/21/AndroidStudio-Plug/)
+###### [在Android Studio中进行单元测试和UI测试](http://www.jianshu.com/p/03118c11c199)
+###### [Android Studio插件整理](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
+###### [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
+###### [Android模版化编程系列（二）](http://blog.csdn.net/qq_15028795/article/details/51939047)
+###### [Android Studio 2.2 中几个实用的新功能](http://www.jianshu.com/p/bc9bbac5a170) 
+ 
 - #### 视频
 ###### [Android开发知识体系图-[极客学院]](http://www.jikexueyuan.com/path/android)
 ###### [Android-慕课网学习路径](http://www.imooc.com/course/programdetail/pid/33)
