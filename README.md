@@ -17,7 +17,7 @@
 
 <h3 id='android'>Android</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
- - ##### Android Stuido 相关
+ ##### · Android Stuido 相关
 ###### [Android Studio系列教程一 —- 下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
 ###### [Android Studio系列教程二 —- 基本设置与运行](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)
 ###### [Android Studio系列教程四 —- Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
