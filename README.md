@@ -8,24 +8,26 @@
 [Java](#java)&emsp;&emsp;
 [Kotlin](#kotlin)&emsp;&emsp;
 [设计模式](#shejimoshi)&emsp;&emsp;
-[Android/Android Studio相关](#android studio)&emsp;&emsp;
+[Android/Android Studio相关](#android-studio)&emsp;&emsp;
 [数据库](#sql)&emsp;&emsp;
 [Git](#git)&emsp;&emsp;
 [GitHub](#github)&emsp;&emsp;
+[Android/View&UI 相关](#view-ui)&emsp;&emsp;
 [MVP](#mvp)&emsp;&emsp;
 [开源项目](#kaiyuanxiangmu)&emsp;&emsp;
 [Linux](#linux)&emsp;&emsp;
 [效率工具](#xiaolv)&emsp;&emsp;
-[Appium](#appium)&emsp;&emsp;
 [框架](#kuangjia)&emsp;&emsp;
+[Android/Material Design 相关](#material-design)&emsp;&emsp;
 [技术漫谈](#mantan)&emsp;&emsp;
+[Appium](#appium)&emsp;&emsp;
 [其他收集类GitHub地址](#qita)&emsp;&emsp;
 
 
 
 <h3 id='android'>Android</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
- <h5 id='android studio'>Android Studio 相关</h5>
+ <h5 id='android-studio'>Android Studio 相关</h5>
 ###### [Android Studio系列教程一 —- 下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
 ###### [Android Studio系列教程二 —- 基本设置与运行](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)
 ###### [Android Studio系列教程四 —- Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
@@ -33,7 +35,7 @@
 ###### [AS技巧合集「编码技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=2&sn=136e2a77c9bdd2cf971143d7f35e57d2&scene=21#wechat_redirect)
 ###### [AS技巧合集「调试技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=3&sn=3a0f99a753e7e8372cb98b696542d2cb&scene=21#wechat_redirect)
  
- ##### Material Design 相关
+ <h5 id='material-design'>Material Design 相关</h5>
 ###### [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 ###### [Android Material Design系列之主题样式介绍说明等](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057851&idx=1&sn=fa8351fa06005314635e79abc45ec171#rd)
 ###### [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
@@ -42,7 +44,7 @@
 ###### [最能解决你的痛点问题，也是你最需要的，尽在Material Design 系列这篇](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057738&idx=1&sn=f0b212bfe3343b8f707f32bfefbbda0b#wechat_redirect)
 ###### [Material designed password](https://github.com/SubhrajyotiSen/PasswordView)
  
- ##### View&UI 相关
+ <h5 id='view-ui'>View&UI 相关</h5>
 ###### [Android RecyclerView 顶部悬浮实现](http://www.jianshu.com/p/c596f2e6f587)
 ###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
 ###### [RecyclerView使用详解（一）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
