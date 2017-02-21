@@ -11,6 +11,8 @@
 [设计模式](#shejimoshi)&emsp;&emsp;
 [数据库](#sql)&emsp;&emsp;
 [Git](#git)&emsp;&emsp;
+[GitHub](#github)&emsp;&emsp;
+[开源项目](#kaiyuanxiangmu)&emsp;&emsp;
 [Appium](#appium)&emsp;&emsp;
 
 
@@ -30,10 +32,12 @@
 ###### [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 ###### [Android Material Design系列之主题样式介绍说明等](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057851&idx=1&sn=fa8351fa06005314635e79abc45ec171#rd)
 ###### [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
-##### [Material Design技术分享](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231829&idx=1&sn=2418c741e7f0e41f6ac4fff4dc2de6f0&scene=1&srcid=0526kJT3uB1vIPjVXTVrSKjW&pass_ticket=muxDwCVjxMK%2Fz1ncol%2B4QyK94pZsvdn%2FSA4JigA6HWU1Hf%2Fr6BUURvZ002TBW6Oq#rd)
-##### [Android Material Design系列之Toolbar](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057635&idx=1&sn=bc8ea475db4f215226367eed71105f35&scene=0#wechat_redirect)
-##### [最能解决你的痛点问题，也是你最需要的，尽在Material Design 系列这篇](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057738&idx=1&sn=f0b212bfe3343b8f707f32bfefbbda0b#wechat_redirect)
-##### [Material designed password](https://github.com/SubhrajyotiSen/PasswordView)
+###### [Material Design技术分享](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231829&idx=1&sn=2418c741e7f0e41f6ac4fff4dc2de6f0&scene=1&srcid=0526kJT3uB1vIPjVXTVrSKjW&pass_ticket=muxDwCVjxMK%2Fz1ncol%2B4QyK94pZsvdn%2FSA4JigA6HWU1Hf%2Fr6BUURvZ002TBW6Oq#rd)
+###### [Android Material Design系列之Toolbar](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057635&idx=1&sn=bc8ea475db4f215226367eed71105f35&scene=0#wechat_redirect)
+###### [最能解决你的痛点问题，也是你最需要的，尽在Material Design 系列这篇](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057738&idx=1&sn=f0b212bfe3343b8f707f32bfefbbda0b#wechat_redirect)
+###### [Material designed password](https://github.com/SubhrajyotiSen/PasswordView)
+ ##### View&UI 相关
+###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
 
 - #### 视频
 ###### [Android开发知识体系图-[极客学院]](http://www.jikexueyuan.com/path/android)
@@ -105,6 +109,32 @@
 ###### [闯过这 54 关，点亮你的 Git 技能树 (一)](https://codingstyle.cn/topics/57)
 ###### [闯过这 54 关，点亮你的 Git 技能树 (二)](https://segmentfault.com/a/1190000005123830)
 ###### [常用的几十个Git小技巧分类与总结](https://segmentfault.com/a/1190000005706707)
+
+
+<h3 id='github'>GitHub</h3>[:arrow_up:](#tags) : 点击回到Tags
+###### [Github装逼指南——Travis CI 和 Codecov](https://segmentfault.com/a/1190000004415437)
+###### [Starred —— GitHub 增强使用工具](http://www.oschina.net/p/starred)
+###### [你与优秀源码之间只差一个Star](http://blog.fir.im/fir_im_weekly160729/?hmsr=gold.xitu.io/&utm_medium=gold.xitu.io&utm_source=gold.xitu.io)
+###### [awesome-github ：为了更好地使用 GitHub](https://gold.xitu.io/entry/56d7a0f31532bc0050741afc)
+###### [Android Studio导入github项目详解](http://blog.csdn.net/lyhhj/article/details/48789705)
+###### [如何选择开源项目？](https://zhuanlan.zhihu.com/p/20840610)
+###### [我的开源项目从0到1024的过程](http://www.jianshu.com/p/f2483bd8da43)
+###### [从0开始学习 GitHub 系列之「初识 GitHub」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661735&idx=1&sn=9aceac07d272e9202d1b5294f857a5ff&scene=21#wechat_redirect)
+###### [从0开始学习 GitHub 系列之「加入 GitHub」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661762&idx=1&sn=8282241cf7414030f4e1d315a173beb1&scene=21#wechat_redirect)
+###### [从0开始学习 GitHub 系列之「Git速成」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661788&idx=1&sn=b7c54f9b13f4e30fe151905f11c02800&scene=21#wechat_redirect)
+###### [从0开始学习 GitHub 系列之「向GitHub 提交代码」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661821&idx=1&sn=c6116ed82bff2d083bb152fbd8cbc38d&scene=21#wechat_redirect)
+###### [从0开始学习 GitHub 系列之「Git 进阶」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661929&idx=1&sn=69e00516a30723c5a20af3c7a84173a4&scene=21#wechat_redirect)
+###### [从0开始学习 GitHub 系列之「团队合作利器 Branch」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661978&idx=1&sn=2f5329f5b2bfda7050822cc5e3a4f03f&scene=21#wechat_redirect)
+###### [从0开始学习 GitHub 系列之「如何发现优秀的开源项目」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662079&idx=1&sn=65605f0d9bd741d38f0b179980dc09f1&scene=21#wechat_redirect)
+###### [从0开始学习 GitHub 系列之「GitHub 常见的几种操作」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662303&idx=1&sn=3df7cba7cd85b33a82b4c05bb12cfff5&chksm=87d138c0b0a6b1d6140da9bab6e58c6e2b258de6118175d31c1ac467b3c58bc1a7c0b1a7db9b&scene=0#wechat_redirect)
+###### [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+
+
+<h3 id='kaiyuanxiangmu'>开源项目</h3>[:arrow_up:](#tags) : 点击回到Tags
+###### [GitHub Top 100的Android开源库](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402675429&idx=1&sn=ba3afd2069004b220eaa8a77fdecbaf7#rd)
+###### [GitHub 排名前 100 的安卓、iOS项目简介](http://www.devstore.cn/essay/essayInfo/6485.html)
+###### [Facebook开源软件列表](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597383&idx=1&sn=a867ee13f294d38d02313a4c58d3da48&scene=1&srcid=06056GdF0vD6Jp3k7AfdizSn&from=groupmessage&isappinstalled=0#wechat_redirect)
+###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
 
 
 <h3 id='appium'>Appium</h3>[:arrow_up:](#tags) : 点击回到Tags
