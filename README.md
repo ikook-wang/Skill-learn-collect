@@ -27,7 +27,7 @@
 
 <h3 id='android'>Android</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
- 
+
  <h5 id='view-ui'>View&UI 相关</h5>
 ###### [Android RecyclerView 顶部悬浮实现](http://www.jianshu.com/p/c596f2e6f587)
 ###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
@@ -72,7 +72,7 @@
 ###### [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
 ###### [Android模版化编程系列（二）](http://blog.csdn.net/qq_15028795/article/details/51939047)
 ###### [Android Studio 2.2 中几个实用的新功能](http://www.jianshu.com/p/bc9bbac5a170) 
- 
+
 - #### 视频
 ###### [Android开发知识体系图-[极客学院]](http://www.jikexueyuan.com/path/android)
 ###### [Android-慕课网学习路径](http://www.imooc.com/course/programdetail/pid/33)
@@ -171,9 +171,7 @@
 ###### [我的开源项目从0到1024的过程](http://www.jianshu.com/p/f2483bd8da43)
 ###### [从0开始学习 GitHub 系列之「初识 GitHub」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661735&idx=1&sn=9aceac07d272e9202d1b5294f857a5ff&scene=21#wechat_redirect)
 ###### [从0开始学习 GitHub 系列之「加入 GitHub」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661762&idx=1&sn=8282241cf7414030f4e1d315a173beb1&scene=21#wechat_redirect)
-###### [从0开始学习 GitHub 系列之「Git速成」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661788&idx=1&sn=b7c54f9b13f4e30fe151905f11c02800&scene=21#wechat_redirect)
 ###### [从0开始学习 GitHub 系列之「向GitHub 提交代码」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661821&idx=1&sn=c6116ed82bff2d083bb152fbd8cbc38d&scene=21#wechat_redirect)
-###### [从0开始学习 GitHub 系列之「Git 进阶」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661929&idx=1&sn=69e00516a30723c5a20af3c7a84173a4&scene=21#wechat_redirect)
 ###### [从0开始学习 GitHub 系列之「团队合作利器 Branch」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661978&idx=1&sn=2f5329f5b2bfda7050822cc5e3a4f03f&scene=21#wechat_redirect)
 ###### [从0开始学习 GitHub 系列之「如何发现优秀的开源项目」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662079&idx=1&sn=65605f0d9bd741d38f0b179980dc09f1&scene=21#wechat_redirect)
 ###### [从0开始学习 GitHub 系列之「GitHub 常见的几种操作」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662303&idx=1&sn=3df7cba7cd85b33a82b4c05bb12cfff5&chksm=87d138c0b0a6b1d6140da9bab6e58c6e2b258de6118175d31c1ac467b3c58bc1a7c0b1a7db9b&scene=0#wechat_redirect)
@@ -209,13 +207,13 @@
 
 
 <h3 id='linux'>Linux</h3>[:arrow_up:](#tags) : 点击回到Tags
-  - #### Blogs
+-   #### Blogs
 ###### [非常全面的Linux知识点总结](http://www.codeceo.com/article/linux-tips.html)
 ###### [我是如何学习Linux的](https://www.sdk.cn/news/3230)
 ###### [Linux中查找命令总结](http://www.36nu.com/post/124.html)
 ###### [ubuntu 工具 -- 5分钟入手Terminator](http://www.jianshu.com/p/cee2de32ca28)
 
-  - #### 视频
+-   #### 视频
 ###### [Linux服务器基础](http://study.163.com/course/introduction.htm?courseId=788001#/courseDetail)
 
 
