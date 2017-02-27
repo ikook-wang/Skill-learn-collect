@@ -224,13 +224,13 @@
 
 
 <h3 id='linux'>Linux</h3>[:arrow_up:](#tags) : 点击回到Tags
--   #### Blogs
+- #### Blogs
 ###### [非常全面的Linux知识点总结](http://www.codeceo.com/article/linux-tips.html)
 ###### [我是如何学习Linux的](https://www.sdk.cn/news/3230)
 ###### [Linux中查找命令总结](http://www.36nu.com/post/124.html)
 ###### [ubuntu 工具 -- 5分钟入手Terminator](http://www.jianshu.com/p/cee2de32ca28)
 
--   #### 视频
+- #### 视频
 ###### [Linux服务器基础](http://study.163.com/course/introduction.htm?courseId=788001#/courseDetail)
 
 
