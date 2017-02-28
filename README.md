@@ -137,8 +137,15 @@
 <h3 id='kotlin'>Kotlin</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [Kotlin 官方参考文档 中文版](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details)
 ###### [Kotlin 官方教程](http://kotlinlang.org/docs/tutorials/)
+###### [Kotlin 中文官网](https://kotlin-zhcn.github.io/)
+###### [Kotlin Blog](https://blog.jetbrains.com/kotlin/)
+###### [Kotlin 语言开发的第三方库](https://kotlin.link/)
+###### [Kotlin 官方示例](https://github.com/JetBrains/kotlin-examples)
 ###### [Kotlin 中文教程](https://github.com/mcxiaoke/kotlin-notes)
-###### [Kotlin从入门到『放弃』系列 视频教程](https://github.com/enbandari/Kotlin-Tutorials)
+###### [Kotlin 教程](http://antonioleiva.com/kotlin/)
+###### [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
+###### [Kotlin for Android Developers 中文翻译](https://www.gitbook.com/book/wangjiegulu/kotlin-for-android-developers-zh/details)
+###### [Kotlin 从入门到『放弃』系列 视频教程](https://github.com/enbandari/Kotlin-Tutorials)
 ###### [Kotlin Primer·第一章·启程](https://www.kymjs.com/code/2017/02/03/01/)
 
 
