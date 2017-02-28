@@ -156,7 +156,8 @@
 ###### [【女朋友系列之找女朋友篇】简单工厂模式，工厂模式，抽象工厂模式](http://www.jianshu.com/p/3f824a91d73b)
 ###### [设计模式速谈：二、简单工厂模式](https://www.yhspy.com/blog/182/)
 ###### [Android 设计模式](http://m.blog.csdn.net/article/details?plg_nld=1&id=24985607&plg_auth=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&plg_dev=1)
-
+###### [Android设计模式之单例模式](http://mp.weixin.qq.com/s/DcN3VRyNGdAderY9hR9fgw)
+###### [Android 源码中的设计模式(你需要知道的设计模式全在这里)](https://github.com/helen-x/AndroidInterview/blob/master/android/Android%20%E6%BA%90%E7%A0%81%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%A8%E5%9C%A8%E8%BF%99%E9%87%8C).md)
 
 <h3 id='sql'>数据库</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [SQLite 官方文档](http://www.sqlite.org/docs.html)
@@ -291,3 +292,5 @@
 ###### [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
 ###### [Android开发资源汇总整理](https://github.com/MobDevGroup/AndroidDevelopmentTutorial)
 ###### [Android 学习资料收集](https://github.com/Freelander/Android_Data)
+###### [Android 名企面试题及涉及知识点整理](https://github.com/helen-x/AndroidInterview)
+###### [Android 名企面试题及涉及知识点整理(原作者)](https://github.com/Mr-YangCheng/ForAndroidInterview)
