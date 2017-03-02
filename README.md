@@ -152,6 +152,7 @@
 
 <h3 id='shejimoshi'>设计模式</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [设计模式Java版](https://www.gitbook.com/book/quanke/design-pattern-java/details)
+###### [java设计模式六大原则之场景应用分析](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247483886&idx=1&sn=f49b2be549b719c9638d989731ad495d&chksm=eb476d70dc30e4665e21d52caa7eb23f3f1e6af2859811a4e16b4d0c7f04fc8163aec9395100&mpshare=1&scene=23&srcid=0302WlX24hm5OD0jWEplzpZL#rd)
 ###### [Android 源码中的设计模式](http://blog.csdn.net/amazing7/article/details/51719404)
 ###### [从Android代码中来记忆23种设计模式](http://blog.csdn.net/huachao1001/article/details/51536074)
 ###### [【女朋友系列之找女朋友篇】简单工厂模式，工厂模式，抽象工厂模式](http://www.jianshu.com/p/3f824a91d73b)
