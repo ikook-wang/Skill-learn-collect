@@ -23,6 +23,7 @@
 [开源框架](#kuangjia)&emsp;&emsp;
 [Android\Material Design 相关](#material-design)&emsp;&emsp;
 [技术漫谈](#mantan)&emsp;&emsp;
+[面试题](#mianshi)&emsp;&emsp;
 [Appium](#appium)&emsp;&emsp;
 [其他收集类GitHub地址](#qita)&emsp;&emsp;
 
@@ -282,6 +283,11 @@
 ###### [程序员之路-学习经验总结分享](http://blog.csdn.net/cjpx00008/article/details/55252916)
 ###### [关于Java 初学者需要知道的10件事](https://mp.weixin.qq.com/s/3nuEQP8Wz6MO7QSp2Xbp2A)
 ###### [Google宣布攻破SHA-1，从此SHA-1不再安全！](http://www.infoq.com/cn/news/2017/02/google-first-sha1-collision)
+###### [[干货，阅后进BAT不是梦]面试心得与总结---BAT、网易、蘑菇街](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547962&idx=1&sn=85a1fc344644a3d6af9c46dae485a24c&scene=1&srcid=0809zIZkaIViVzpQZGtBbdRV#wechat_redirect)
+
+
+<h3 id='mianshi'>面试题</h3>[:arrow_up:](#tags) : 点击回到Tags
+###### [这些Android面试题，你值得收藏](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247483858&idx=1&sn=78c3eb7ffb2c2df684725e97ce524126&chksm=eb476d4cdc30e45a75ee7fd015495f12e7924eeb8ae06d06961161a921cd4d0cd94874a31dc0&mpshare=1&scene=23&srcid=0302uXiAz1mWGlgHCqu3MvfS#rd)
 
 
 <h3 id='appium'>Appium</h3>[:arrow_up:](#tags) : 点击回到Tags
