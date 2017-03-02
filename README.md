@@ -20,7 +20,7 @@
 [Spring](#spring)&emsp;&emsp;
 [效率工具](#xiaolv)&emsp;&emsp;
 [MVC](#mvc)&emsp;&emsp;
-[框架](#kuangjia)&emsp;&emsp;
+[开源框架](#kuangjia)&emsp;&emsp;
 [Android\Material Design 相关](#material-design)&emsp;&emsp;
 [技术漫谈](#mantan)&emsp;&emsp;
 [Appium](#appium)&emsp;&emsp;
@@ -48,6 +48,7 @@
 ###### [Android Material Design系列之Toolbar](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057635&idx=1&sn=bc8ea475db4f215226367eed71105f35&scene=0#wechat_redirect)
 ###### [最能解决你的痛点问题，也是你最需要的，尽在Material Design 系列这篇](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057738&idx=1&sn=f0b212bfe3343b8f707f32bfefbbda0b#wechat_redirect)
 ###### [Material designed password](https://github.com/SubhrajyotiSen/PasswordView)
+###### [Material Design 【 Android UI 系列第一篇】](http://mp.weixin.qq.com/s?__biz=MzA5NjU5MzYyMQ==&mid=2454490704&idx=1&sn=90b5cabb51740f719bf333a378a71721&chksm=87159deab06214fcd35c213db59b7f7a1ddfa3d9e566f9f03fe0ad7e7a405f6c68268d6a0b7b&mpshare=1&scene=23&srcid=0301v3q117hpOg5BTIqSqpTc#rd)
 
  <h5 id='android-studio'>Android Studio 相关</h5>
 ###### [Android Studio系列教程一 —- 下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
@@ -93,7 +94,7 @@
 - #### 开源库
 ###### [「2017年一月」最热门的5个 Android 库](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058569&idx=1&sn=daf9e3cacb8405baa6ca2ce01ca6df28&chksm=bd5655358a21dc23a3472ba5edc2d5ead8b317eb83dfd0607c2ce8a93322d7f2eb8d01d71b69&mpshare=1&scene=23&srcid=02279j6uDpZeOkJ8CuKRYLSp#rd)
 ###### [2017 年又让你蠢蠢欲动 的25个 Android 开源库](http://mp.weixin.qq.com/s?__biz=MzA5NjU5MzYyMQ==&mid=2454490640&idx=1&sn=d4427a4e1f12b7db84f33df9c941ffa3&chksm=87159daab06214bc0d922464a327a31c1c6a0b93a894fe1887ed770586fdc7eeb00a278c3514&mpshare=1&scene=23&srcid=02276uIvZTMZrgehRLfxXtGd#rd)
-
+###### [Android-skin-support 一款用心去做的Android 换肤框架](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548826&idx=1&sn=9f72f5a052fd86591bc4a5896184c94a&chksm=f1180367c66f8a71001231c3c750aca76f5fb106e68955f30c868728f2bffb819be7081e3a33&mpshare=1&scene=23&srcid=0301IR0lx2lgW3o1e4n2lr3e#rd)
 
 <h3 id='java'>Java</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
@@ -254,7 +255,7 @@
 ###### [Au开发者工具](http://eiyou.us/)
 
 
-<h3 id='kuangjia'>框架</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='kuangjia'>开源框架</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [Android通用流行框架大全](https://segmentfault.com/a/1190000005073746)
 ###### [Android开发常用开源框架推荐](http://www.jianshu.com/p/deb55cf2f0c1)
 ###### [android-architecture(Google 官方推荐架构写法)](https://github.com/googlesamples/android-architecture/tree/master)
@@ -262,6 +263,8 @@
 ###### [LeakCanary 中文使用说明](https://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
 ###### [「2017年一月」最热门的5个 Android 库](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058569&idx=1&sn=daf9e3cacb8405baa6ca2ce01ca6df28&chksm=bd5655358a21dc23a3472ba5edc2d5ead8b317eb83dfd0607c2ce8a93322d7f2eb8d01d71b69&mpshare=1&scene=23&srcid=02279j6uDpZeOkJ8CuKRYLSp#rd)
 ###### [2017 年又让你蠢蠢欲动 的25个 Android 开源库](http://mp.weixin.qq.com/s?__biz=MzA5NjU5MzYyMQ==&mid=2454490640&idx=1&sn=d4427a4e1f12b7db84f33df9c941ffa3&chksm=87159daab06214bc0d922464a327a31c1c6a0b93a894fe1887ed770586fdc7eeb00a278c3514&mpshare=1&scene=23&srcid=02276uIvZTMZrgehRLfxXtGd#rd)
+###### [Android-skin-support 一款用心去做的Android 换肤框架](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548826&idx=1&sn=9f72f5a052fd86591bc4a5896184c94a&chksm=f1180367c66f8a71001231c3c750aca76f5fb106e68955f30c868728f2bffb819be7081e3a33&mpshare=1&scene=23&srcid=0301IR0lx2lgW3o1e4n2lr3e#rd)
+
 
 <h3 id='mvc'>MVC</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [强化版mvc设计模式](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=403123455&idx=1&sn=9d414a52f2399768e61d03b3aefc3cb6#rd)
