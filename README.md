@@ -20,7 +20,7 @@
 [Spring](#spring)&emsp;&emsp;
 [效率工具](#xiaolv)&emsp;&emsp;
 [MVC](#mvc)&emsp;&emsp;
-[开源框架](#kuangjia)&emsp;&emsp;
+[开源库](#kuangjia)&emsp;&emsp;
 [Android\Material Design 相关](#material-design)&emsp;&emsp;
 [技术漫谈](#mantan)&emsp;&emsp;
 [面试题](#mianshi)&emsp;&emsp;
@@ -122,6 +122,8 @@
 ###### [为什么 Java 8 中不再需要 StringBuilder 拼接字符串](http://www.jianshu.com/p/5ad9fbdc805b)
 ###### [Java Collections Framework Internals](https://github.com/CarpenterLee/JCFInternals)
 ###### [Java 集合系列目录(Category)](http://www.cnblogs.com/skywang12345/p/3323085.html)
+###### [面试的角度诠释Java工程师（一）](http://www.jianshu.com/p/e4ba72acffa9#)
+###### [面试的角度诠释Java工程师（二）](http://www.jianshu.com/p/a0b8b6f17888)
 
 - #### 视频
 ###### [Servlet+JSP（JavaEE开发进阶Ⅰ）](http://study.163.com/course/introduction.htm?courseId=1002907014#/courseDetail)
@@ -161,6 +163,7 @@
 ###### [Android 设计模式](http://m.blog.csdn.net/article/details?plg_nld=1&id=24985607&plg_auth=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&plg_dev=1)
 ###### [Android设计模式之单例模式](http://mp.weixin.qq.com/s/DcN3VRyNGdAderY9hR9fgw)
 ###### [Android 源码中的设计模式(你需要知道的设计模式全在这里)](https://github.com/helen-x/AndroidInterview/blob/master/android/Android%20%E6%BA%90%E7%A0%81%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%A8%E5%9C%A8%E8%BF%99%E9%87%8C).md)
+###### [design-mode](http://shili.me/2017/03/06/design-mode/)
 
 <h3 id='sql'>数据库</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [SQLite 官方文档](http://www.sqlite.org/docs.html)
@@ -257,7 +260,7 @@
 ###### [Au开发者工具](http://eiyou.us/)
 
 
-<h3 id='kuangjia'>开源框架</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='kuangjia'>开源库</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [Android通用流行框架大全](https://segmentfault.com/a/1190000005073746)
 ###### [Android开发常用开源框架推荐](http://www.jianshu.com/p/deb55cf2f0c1)
 ###### [android-architecture(Google 官方推荐架构写法)](https://github.com/googlesamples/android-architecture/tree/master)
@@ -266,7 +269,7 @@
 ###### [「2017年一月」最热门的5个 Android 库](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058569&idx=1&sn=daf9e3cacb8405baa6ca2ce01ca6df28&chksm=bd5655358a21dc23a3472ba5edc2d5ead8b317eb83dfd0607c2ce8a93322d7f2eb8d01d71b69&mpshare=1&scene=23&srcid=02279j6uDpZeOkJ8CuKRYLSp#rd)
 ###### [2017 年又让你蠢蠢欲动 的25个 Android 开源库](http://mp.weixin.qq.com/s?__biz=MzA5NjU5MzYyMQ==&mid=2454490640&idx=1&sn=d4427a4e1f12b7db84f33df9c941ffa3&chksm=87159daab06214bc0d922464a327a31c1c6a0b93a894fe1887ed770586fdc7eeb00a278c3514&mpshare=1&scene=23&srcid=02276uIvZTMZrgehRLfxXtGd#rd)
 ###### [Android-skin-support 一款用心去做的Android 换肤框架](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548826&idx=1&sn=9f72f5a052fd86591bc4a5896184c94a&chksm=f1180367c66f8a71001231c3c750aca76f5fb106e68955f30c868728f2bffb819be7081e3a33&mpshare=1&scene=23&srcid=0301IR0lx2lgW3o1e4n2lr3e#rd)
-
+###### [2016 Android Top 10 Library](http://shili.me/2017/03/06/design-mode/)
 
 <h3 id='mvc'>MVC</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [强化版mvc设计模式](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=403123455&idx=1&sn=9d414a52f2399768e61d03b3aefc3cb6#rd)
@@ -284,6 +287,7 @@
 ###### [关于Java 初学者需要知道的10件事](https://mp.weixin.qq.com/s/3nuEQP8Wz6MO7QSp2Xbp2A)
 ###### [Google宣布攻破SHA-1，从此SHA-1不再安全！](http://www.infoq.com/cn/news/2017/02/google-first-sha1-collision)
 ###### [[干货，阅后进BAT不是梦]面试心得与总结---BAT、网易、蘑菇街](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547962&idx=1&sn=85a1fc344644a3d6af9c46dae485a24c&scene=1&srcid=0809zIZkaIViVzpQZGtBbdRV#wechat_redirect)
+###### [技术的热门度曲线](http://www.ruanyifeng.com/blog/2017/03/gartner-hype-cycle.html)
 
 
 <h3 id='mianshi'>面试题</h3>[:arrow_up:](#tags) : 点击回到Tags
