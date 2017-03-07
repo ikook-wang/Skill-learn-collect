@@ -61,7 +61,7 @@
 ###### [Android Studio 掌握这些调试技巧，Debug能力不能再高啦](http://www.jianshu.com/p/985f788fae2c)
 ###### [Android Studio五分钟带你从菜鸟到高级调试](http://blog.csdn.net/u013132758/article/details/51915575)
 ###### [Android Studio最全快捷键以及演示](http://fvaryu.github.io/2016/07/22/as-keymap/)
-###### [[精品推荐]Android Studio插件整理](https://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651433634&idx=1&sn=e5f65d8a0a2b85f7c22d8ccd4cf96a39&scene=1&srcid=0721vQcDls3Ak34dZY1y3h7o&key=77421cf58af4a653e4f55f04cf114492e73a17a2a7d56a0e523c62f16c003b19cdab0cf3a902023d7cbe2af60a58c71d&ascene=0&uin=MjAyNzY1NTU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=ihQKTSTYwhIquv1%2B6HyhJs3I0vZz0qtIoTVci3l%2BikU%3D)
+###### [[精品推荐]Android Studio插件整理](https://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651433634&idx=1&sn=e5f65d8a0a2b85f7c22d8ccd4cf96a39&scene=1&srcid=0721vQcDls3Ak34dZY1y3h7o&key=77421cf58af4a653e4f55f04cf114492e73a17a2a7d56a0e523c62f16c003b19cdab0cf3a902023d7cbe2af60a58c71d&ascene=0&uin=MjAyNzY1NTU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.3+build)
 ###### [多module合成单一module技巧](http://www.jianshu.com/p/9b022951571c)
 ###### [Android Studio相见恨晚的操作锦集](http://www.jianshu.com/p/bc8f6bfe12c6?)
 ###### [Android Studio Plugin is too old、Gradle version 2.10 is required问题解决方法](http://yanziyu.top/2016/03/21/as-issue/)
@@ -76,7 +76,7 @@
 ###### [Android Studio插件整理](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
 ###### [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
 ###### [Android模版化编程系列（二）](http://blog.csdn.net/qq_15028795/article/details/51939047)
-###### [Android Studio 2.2 中几个实用的新功能](http://www.jianshu.com/p/bc9bbac5a170) 
+###### [Android Studio 2.2 中几个实用的新功能](http://www.jianshu.com/p/bc9bbac5a170)
 ###### [Android Studio 2.3 正式版新功能，你不来看看？！](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548850&idx=1&sn=0251597577d644bb2f600aa04cb27895&chksm=f118034fc66f8a596bec2a6baeeebd548eb854fca78af9f12dc0c17d7633735126dce7e583c2&mpshare=1&scene=23&srcid=0306tW8C8tlcySFFmUuJS6dn#rd)
 
 - #### 视频
@@ -219,7 +219,7 @@
 ###### [解读Android官方MVP项目单元测试](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0425/4178.html)
 ###### [google官方架构MVP解析与实战-（从零开始搭建android框架系列（3））](http://www.jianshu.com/p/569ab68da482)
 ###### [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0513/4260.html)
-###### [Android MVP+Retrofit+RxJava实践小结](http://wuxiaolong.me/2016/06/12/mvpRetrofitRxjava/)	
+###### [Android MVP+Retrofit+RxJava实践小结](http://wuxiaolong.me/2016/06/12/mvpRetrofitRxjava/)
 ###### [android MVP模式介绍与实战](http://dahei.me/2016/06/22/mvp/android%20MVP%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E4%B8%8E%E5%AE%9E%E6%88%98/)
 ###### [（Basic框架）Android中实现mvp模式的新思路](http://www.jianshu.com/p/31a202c0c264)
 ###### [android MVP 架构思路](http://mp.weixin.qq.com/s?__biz=MzI1MjMyOTU2Ng==&mid=2247483865&idx=1&sn=28d3c2f12138e5db0b0245efb1825d4f#rd)
@@ -271,7 +271,7 @@
 ###### [「2017年一月」最热门的5个 Android 库](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058569&idx=1&sn=daf9e3cacb8405baa6ca2ce01ca6df28&chksm=bd5655358a21dc23a3472ba5edc2d5ead8b317eb83dfd0607c2ce8a93322d7f2eb8d01d71b69&mpshare=1&scene=23&srcid=02279j6uDpZeOkJ8CuKRYLSp#rd)
 ###### [2017 年又让你蠢蠢欲动 的25个 Android 开源库](http://mp.weixin.qq.com/s?__biz=MzA5NjU5MzYyMQ==&mid=2454490640&idx=1&sn=d4427a4e1f12b7db84f33df9c941ffa3&chksm=87159daab06214bc0d922464a327a31c1c6a0b93a894fe1887ed770586fdc7eeb00a278c3514&mpshare=1&scene=23&srcid=02276uIvZTMZrgehRLfxXtGd#rd)
 ###### [Android-skin-support 一款用心去做的Android 换肤框架](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548826&idx=1&sn=9f72f5a052fd86591bc4a5896184c94a&chksm=f1180367c66f8a71001231c3c750aca76f5fb106e68955f30c868728f2bffb819be7081e3a33&mpshare=1&scene=23&srcid=0301IR0lx2lgW3o1e4n2lr3e#rd)
-###### [2016 Android Top 10 Library](http://shili.me/2017/03/06/design-mode/)
+###### [2016 Android Top 10 Library](http://stormzhang.com/2017/01/16/top-10-android-library-of-2016/)
 
 <h3 id='mvc'>MVC</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [强化版mvc设计模式](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=403123455&idx=1&sn=9d414a52f2399768e61d03b3aefc3cb6#rd)
