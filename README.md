@@ -1,4 +1,4 @@
-[English]()|中文
+[English](https://github.com/china-kook/Skill-learn-collect/blob/master/README_english.md)|中文
 
 # Skill-learn-collect
 收集在学习和提高技术过程中遇到的比较有价值的网站、文档、Blog等，方便自己查阅。
