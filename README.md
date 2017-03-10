@@ -130,6 +130,7 @@
 ###### [Java 集合系列目录(Category)](http://www.cnblogs.com/skywang12345/p/3323085.html)
 ###### [面试的角度诠释Java工程师（一）](http://www.jianshu.com/p/e4ba72acffa9#)
 ###### [面试的角度诠释Java工程师（二）](http://www.jianshu.com/p/a0b8b6f17888)
+###### [Google 推出的 Java 编码规范](https://segmentfault.com/a/1190000002761014)
 
 - #### 视频
 ###### [Servlet+JSP（JavaEE开发进阶Ⅰ）](http://study.163.com/course/introduction.htm?courseId=1002907014#/courseDetail)
