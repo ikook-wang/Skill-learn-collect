@@ -97,6 +97,7 @@
 ###### [Material Design 官方文档](https://material.io/guidelines/)
 ###### [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 ###### [Android 中文API](http://www.android-doc.com/index.html)
+###### [CSDN Android 知识库](http://lib.csdn.net/base/android)
 
 - #### 开源库
 ###### [「2017年一月」最热门的5个 Android 库](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058569&idx=1&sn=daf9e3cacb8405baa6ca2ce01ca6df28&chksm=bd5655358a21dc23a3472ba5edc2d5ead8b317eb83dfd0607c2ce8a93322d7f2eb8d01d71b69&mpshare=1&scene=23&srcid=02279j6uDpZeOkJ8CuKRYLSp#rd)
