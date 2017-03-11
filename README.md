@@ -182,6 +182,7 @@
 <h3 id='suanfa'>算法</h3>[:arrow_up:](#tags) : 点击回到Tags
 ###### [递归、尾递归与尾调用](http://bosschow.github.io/2017/02/24/recursion-and-tail-recursion/)
 ###### [用Java写算法之一：冒泡排序](http://flyingcat2013.blog.51cto.com/7061638/1279334)
+###### [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
 
 
 <h3 id='git'>Git</h3>[:arrow_up:](#tags) : 点击回到Tags
@@ -267,6 +268,7 @@
 
 
 <h3 id='xiaolv'>效率工具</h3>[:arrow_up:](#tags) : 点击回到Tags
+###### [Android开发时，那些相见恨晚的工具或网站！](https://mp.weixin.qq.com/s/-tt3IMjIRUFvU-Xw8mjFtw)
 ###### [Android Pixel计算器](http://angrytools.com/android/pixelcalc/?winzoom=1)
 ###### [有了这10款逆天级效率工具，每天提前下班2小时!#DEMO8年度产品盘点#](http://www.jianshu.com/p/a3312f1c7068)
 ###### [ClassyShark——apk分析利器](https://mp.weixin.qq.com/s/zieCldmExPYr_-9V6zKC3A)
