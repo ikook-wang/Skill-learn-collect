@@ -34,14 +34,11 @@
 
 
 
-<h3 id='android'>Android</h3>[:arrow_up:](#tags) 
-
+<h3 id='android'>Android</h3>[:arrow_up:](#tags) : 点击回到Tags
 - #### Blogs
 
  <h5 id='view-ui'>View&UI 相关</h5>
-
 ###### [Android RecyclerView 顶部悬浮实现](http://www.jianshu.com/p/c596f2e6f587)
-
 ###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
 ###### [RecyclerView使用详解（一）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
 ###### [Android RecyclerView 使用完全解析 体验艺术般的控件](http://blog.csdn.net/lmj623565791/article/details/45059587)
@@ -50,7 +47,6 @@
 ###### [ RecyclerView 入门教程（超详细）](http://blog.csdn.net/u013647382/article/details/51901103)
 
  <h5 id='material-design'>Material Design 相关</h5>
-
 ###### [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 ###### [Android Material Design系列之主题样式介绍说明等](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057851&idx=1&sn=fa8351fa06005314635e79abc45ec171#rd)
 ###### [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
@@ -61,7 +57,6 @@
 ###### [Material Design 【 Android UI 系列第一篇】](http://mp.weixin.qq.com/s?__biz=MzA5NjU5MzYyMQ==&mid=2454490704&idx=1&sn=90b5cabb51740f719bf333a378a71721&chksm=87159deab06214fcd35c213db59b7f7a1ddfa3d9e566f9f03fe0ad7e7a405f6c68268d6a0b7b&mpshare=1&scene=23&srcid=0301v3q117hpOg5BTIqSqpTc#rd)
 
  <h5 id='android-studio'>Android Studio 相关</h5>
-
 ###### [Android Studio系列教程一 —- 下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
 ###### [Android Studio系列教程二 —- 基本设置与运行](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)
 ###### [Android Studio系列教程四 —- Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
@@ -110,9 +105,7 @@
 ###### [Android-skin-support 一款用心去做的Android 换肤框架](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548826&idx=1&sn=9f72f5a052fd86591bc4a5896184c94a&chksm=f1180367c66f8a71001231c3c750aca76f5fb106e68955f30c868728f2bffb819be7081e3a33&mpshare=1&scene=23&srcid=0301IR0lx2lgW3o1e4n2lr3e#rd)
 
 <h3 id='java'>Java</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 - #### Blogs
-
 ###### [一分钟秒懂注解](https://dreamerhome.github.io/2016/08/02/annotaion/)
 ###### [浅谈依赖注入与控制反转](http://hersface.com/page/DI_IoC.html)
 ###### [公共技术点之 Java 反射 Reflection](http://p.codekk.com/blogs/detail/5596953ed6459ae7934997c5)
@@ -154,7 +147,6 @@
 
 
 <h3 id='kotlin'>Kotlin</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [Kotlin 官方参考文档 中文版](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details)
 ###### [Kotlin 官方教程](http://kotlinlang.org/docs/tutorials/)
 ###### [Kotlin 中文官网](https://kotlin-zhcn.github.io/)
@@ -170,7 +162,6 @@
 
 
 <h3 id='shejimoshi'>设计模式</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [设计模式Java版](https://www.gitbook.com/book/quanke/design-pattern-java/details)
 ###### [java设计模式六大原则之场景应用分析](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247483886&idx=1&sn=f49b2be549b719c9638d989731ad495d&chksm=eb476d70dc30e4665e21d52caa7eb23f3f1e6af2859811a4e16b4d0c7f04fc8163aec9395100&mpshare=1&scene=23&srcid=0302WlX24hm5OD0jWEplzpZL#rd)
 ###### [Android 源码中的设计模式](http://blog.csdn.net/amazing7/article/details/51719404)
@@ -183,7 +174,6 @@
 ###### [design-mode](http://shili.me/2017/03/06/design-mode/)
 
 <h3 id='sql'>数据库</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [SQLite 官方文档](http://www.sqlite.org/docs.html)
 ###### [SQL基础语句汇总](http://www.jcodecraeer.com/a/shujuku/2015/1024/3619.html)
 ###### [Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/)
@@ -191,14 +181,12 @@
 
 
 <h3 id='suanfa'>算法</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [递归、尾递归与尾调用](http://bosschow.github.io/2017/02/24/recursion-and-tail-recursion/)
 ###### [用Java写算法之一：冒泡排序](http://flyingcat2013.blog.51cto.com/7061638/1279334)
 ###### [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
 
 
 <h3 id='git'>Git</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [Git学习总结](http://ikookblog.com/2016/10/15/Git%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
 ###### [ProGit中文版](https://git-scm.com/book/zh/v2)
 ###### [廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
@@ -213,7 +201,6 @@
 
 
 <h3 id='github'>GitHub</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [Github装逼指南——Travis CI 和 Codecov](https://segmentfault.com/a/1190000004415437)
 ###### [Starred —— GitHub 增强使用工具](http://www.oschina.net/p/starred)
 ###### [你与优秀源码之间只差一个Star](http://blog.fir.im/fir_im_weekly160729/?hmsr=gold.xitu.io/&utm_medium=gold.xitu.io&utm_source=gold.xitu.io)
@@ -231,13 +218,11 @@
 
 
 <h3 id='computer-basis'>计算机基础</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [【不周山之读薄 CSAPP】零 系列概览](http://wdxtub.com/2016/04/16/thin-csapp-0/#comments)
 ###### [【不周山之读薄 CSAPP】壹 数据表示](http://wdxtub.com/2016/04/16/thin-csapp-1/)
 
 
 <h3 id='mvp'>MVP</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [从零开始的Android新项目3 - MVPVM in Action, 谁告诉你MVP和MVVM是互斥的](http://blog.zhaiyifan.cn/2016/03/16/android-new-project-from-0-p3/)
 ###### [todo-mvp--Google官方MVP推荐写法](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)
 ###### [一步一步实现Android的MVP框架](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577546&idx=1&sn=e10be159645a3aa8f6d6f209420fb412&scene=0#wechat_redirect)
@@ -254,7 +239,6 @@
 
 
 <h3 id='kaiyuanxiangmu'>开源项目</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [GitHub Top 100的Android开源库](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402675429&idx=1&sn=ba3afd2069004b220eaa8a77fdecbaf7#rd)
 ###### [GitHub 排名前 100 的安卓、iOS项目简介](http://www.devstore.cn/essay/essayInfo/6485.html)
 ###### [Facebook开源软件列表](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597383&idx=1&sn=a867ee13f294d38d02313a4c58d3da48&scene=1&srcid=06056GdF0vD6Jp3k7AfdizSn&from=groupmessage&isappinstalled=0#wechat_redirect)
@@ -269,7 +253,6 @@
 
 
 <h3 id='linux'>Linux</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 - #### Blogs
 ###### [非常全面的Linux知识点总结](http://www.codeceo.com/article/linux-tips.html)
 ###### [我是如何学习Linux的](https://www.sdk.cn/news/3230)
@@ -281,13 +264,11 @@
 
 
 <h3 id='spring'>Spring</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [Spring Boot 集成 FreeMarker 详解案例](http://www.bysocket.com/?p=1666)
 ###### [SpringMVC工作原理](http://www.jianshu.com/p/ce85b9e7d650)
 
 
 <h3 id='xiaolv'>效率工具</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [Android开发时，那些相见恨晚的工具或网站！](https://mp.weixin.qq.com/s/-tt3IMjIRUFvU-Xw8mjFtw)
 ###### [Android Pixel计算器](http://angrytools.com/android/pixelcalc/?winzoom=1)
 ###### [有了这10款逆天级效率工具，每天提前下班2小时!#DEMO8年度产品盘点#](http://www.jianshu.com/p/a3312f1c7068)
@@ -296,7 +277,6 @@
 
 
 <h3 id='kuangjia'>开源库</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [Android通用流行框架大全](https://segmentfault.com/a/1190000005073746)
 ###### [Android开发常用开源框架推荐](http://www.jianshu.com/p/deb55cf2f0c1)
 ###### [android-architecture(Google 官方推荐架构写法)](https://github.com/googlesamples/android-architecture/tree/master)
@@ -308,13 +288,11 @@
 ###### [2016 Android Top 10 Library](http://stormzhang.com/2017/01/16/top-10-android-library-of-2016/)
 
 <h3 id='mvc'>MVC</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [强化版mvc设计模式](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=403123455&idx=1&sn=9d414a52f2399768e61d03b3aefc3cb6#rd)
 ###### [SpringMVC工作原理](http://www.jianshu.com/p/ce85b9e7d650)
 
 
 <h3 id='mantan'>技术漫谈</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [Android学习之路 - stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 ###### [假如时光能够倒流， 我会这么学习Java](http://mp.weixin.qq.com/s/3Yu-A_k-NznTGv-JTlDjRA)
 ###### [如何自学Android编程？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402135493&idx=1&sn=c2e040f95551082cbe2bdf7182dc3e9f&scene=21#wechat_redirect)
@@ -329,12 +307,10 @@
 
 
 <h3 id='mianshi'>面试题</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [这些Android面试题，你值得收藏](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247483858&idx=1&sn=78c3eb7ffb2c2df684725e97ce524126&chksm=eb476d4cdc30e45a75ee7fd015495f12e7924eeb8ae06d06961161a921cd4d0cd94874a31dc0&mpshare=1&scene=23&srcid=0302uXiAz1mWGlgHCqu3MvfS#rd)
 
 
 <h3 id='appium'>Appium</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [ Appium 简明教程 (持续更新)](https://testerhome.com/topics/1045)
 ###### [阿里云测Appium文档](https://mqc.aliyun.com/doc.htm?id=15)
 ###### [Appium官方Tutorial](http://appium.io/slate/en/tutorial/android.html?java#)
@@ -343,7 +319,6 @@
 
 
 <h3 id='qita'>其他收集类GitHub地址</h3>[:arrow_up:](#tags) : 点击回到Tags
-
 ###### [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
 ###### [Android开发资源汇总整理](https://github.com/MobDevGroup/AndroidDevelopmentTutorial)
 ###### [Android 学习资料收集](https://github.com/Freelander/Android_Data)
