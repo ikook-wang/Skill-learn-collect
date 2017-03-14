@@ -39,7 +39,9 @@
 - #### Blogs
 
  <h5 id='view-ui'>View&UI 相关</h5>
+ 
 ###### [Android RecyclerView 顶部悬浮实现](http://www.jianshu.com/p/c596f2e6f587)
+
 ###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
 ###### [RecyclerView使用详解（一）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
 ###### [Android RecyclerView 使用完全解析 体验艺术般的控件](http://blog.csdn.net/lmj623565791/article/details/45059587)
