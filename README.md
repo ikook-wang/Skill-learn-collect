@@ -80,15 +80,18 @@
     ###### [AndroidStudio上面最好用的插件](http://www.jianshu.com/p/d76b60a3883d)
     ###### [Android必知必会-Android Studio修改包名](http://blog.csdn.net/ys743276112/article/details/51684294)
     ###### [Android Studio必备插件](http://hjxandhmr.github.io/2016/06/21/AndroidStudio-Plug/)
+    ###### [在Android Studio中进行单元测试和UI测试](http://www.jianshu.com/p/03118c11c199)
     ###### [Android Studio插件整理](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
     ###### [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
+    ###### [Android模版化编程系列（二）](http://blog.csdn.net/qq_15028795/article/details/51939047)
+    ###### [Android Studio 2.2 中几个实用的新功能](http://www.jianshu.com/p/bc9bbac5a170)
     ###### [Android Studio 2.3 正式版新功能，你不来看看？！](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548850&idx=1&sn=0251597577d644bb2f600aa04cb27895&chksm=f118034fc66f8a596bec2a6baeeebd548eb854fca78af9f12dc0c17d7633735126dce7e583c2&mpshare=1&scene=23&srcid=0306tW8C8tlcySFFmUuJS6dn#rd)
 
 - #### 视频
 
-###### [Android开发知识体系图-[极客学院]](http://www.jikexueyuan.com/path/android)
-###### [Android-慕课网学习路径](http://www.imooc.com/course/programdetail/pid/33)
-###### [Android 开发工程师-优达学城](https://cn.udacity.com/android/)
+  ###### [Android开发知识体系图-[极客学院]](http://www.jikexueyuan.com/path/android)
+  ###### [Android-慕课网学习路径](http://www.imooc.com/course/programdetail/pid/33)
+  ###### [Android 开发工程师-优达学城](https://cn.udacity.com/android/)
 
 - #### 文档
 ###### [Android Developer官方文档](https://developer.android.com/index.html)
