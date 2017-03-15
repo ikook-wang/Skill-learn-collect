@@ -205,7 +205,8 @@
  ###### [递归、尾递归与尾调用](http://bosschow.github.io/2017/02/24/recursion-and-tail-recursion/)
  ###### [用Java写算法之一：冒泡排序](http://flyingcat2013.blog.51cto.com/7061638/1279334)
  ###### [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
-
+ ###### [常见排序的java实现](http://xiuweikang.github.io/2014/11/30/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%9A%84java%E5%AE%9E%E7%8E%B0/)
+ ###### [VisuAlgo - 数据结构和算法动态可视化 (Chinese)](https://visualgo-translation.club/zh)
 
 <h3 id='git'>Git</h3>
 
@@ -358,6 +359,7 @@
  ###### [Google宣布攻破SHA-1，从此SHA-1不再安全！](http://www.infoq.com/cn/news/2017/02/google-first-sha1-collision)
  ###### [[干货，阅后进BAT不是梦]面试心得与总结---BAT、网易、蘑菇街](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547962&idx=1&sn=85a1fc344644a3d6af9c46dae485a24c&scene=1&srcid=0809zIZkaIViVzpQZGtBbdRV#wechat_redirect)
  ###### [技术的热门度曲线](http://www.ruanyifeng.com/blog/2017/03/gartner-hype-cycle.html)
+ ###### [技术大牛养成指南，一篇不鸡汤的成功学实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650995517&idx=1&sn=d57f6d473b541fc7892e6a12fcd2a244&chksm=bdbf036e8ac88a7806a212ef90b2e4d4bfcdbd98c5f7d1b8be9cc891a19e5372ea01007a1756&mpshare=1&scene=23&srcid=03010fuaUL8dEiCNG5mzM5tA#rd)
 
 
 <h3 id='mianshi'>面试题</h3>
