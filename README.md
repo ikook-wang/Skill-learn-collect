@@ -38,15 +38,16 @@
 
 - #### Blogs
    <h4 id='view-ui'>View&UI 相关</h4>
-   ##### [Android RecyclerView 顶部悬浮实现](http://www.jianshu.com/p/c596f2e6f587)
+
+    ##### [Android RecyclerView 顶部悬浮实现](http://www.jianshu.com/p/c596f2e6f587)
 
     ##### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
 
     ##### [RecyclerView使用详解（一）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
 
- ##### [Android RecyclerView 使用完全解析 体验艺术般的控件](http://blog.csdn.net/lmj623565791/article/details/45059587)
- ##### [这是一篇Android RecyclerView使用介绍哦](http://www.jianshu.com/p/12ec590f6c76#)
- ##### [ RecyclerView 入门教程（超详细）](http://blog.csdn.net/u013647382/article/details/51901103)
+    ##### [Android RecyclerView 使用完全解析 体验艺术般的控件](http://blog.csdn.net/lmj623565791/article/details/45059587)
+    ##### [这是一篇Android RecyclerView使用介绍哦](http://www.jianshu.com/p/12ec590f6c76#)
+    ##### [ RecyclerView 入门教程（超详细）](http://blog.csdn.net/u013647382/article/details/51901103)
 
  <h5 id='material-design'>Material Design 相关</h5>
 ###### [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
