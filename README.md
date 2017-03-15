@@ -177,115 +177,115 @@
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [设计模式Java版](https://www.gitbook.com/book/quanke/design-pattern-java/details)
-###### [java设计模式六大原则之场景应用分析](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247483886&idx=1&sn=f49b2be549b719c9638d989731ad495d&chksm=eb476d70dc30e4665e21d52caa7eb23f3f1e6af2859811a4e16b4d0c7f04fc8163aec9395100&mpshare=1&scene=23&srcid=0302WlX24hm5OD0jWEplzpZL#rd)
-###### [Android 源码中的设计模式](http://blog.csdn.net/amazing7/article/details/51719404)
-###### [从Android代码中来记忆23种设计模式](http://blog.csdn.net/huachao1001/article/details/51536074)
-###### [【女朋友系列之找女朋友篇】简单工厂模式，工厂模式，抽象工厂模式](http://www.jianshu.com/p/3f824a91d73b)
-###### [设计模式速谈：二、简单工厂模式](https://www.yhspy.com/blog/182/)
-###### [Android 设计模式](http://m.blog.csdn.net/article/details?plg_nld=1&id=24985607&plg_auth=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&plg_dev=1)
-###### [Android设计模式之单例模式](http://mp.weixin.qq.com/s/DcN3VRyNGdAderY9hR9fgw)
-###### [Android 源码中的设计模式(你需要知道的设计模式全在这里)](https://github.com/helen-x/AndroidInterview/blob/master/android/Android%20%E6%BA%90%E7%A0%81%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%A8%E5%9C%A8%E8%BF%99%E9%87%8C).md)
-###### [design-mode](http://shili.me/2017/03/06/design-mode/)
+ ###### [设计模式Java版](https://www.gitbook.com/book/quanke/design-pattern-java/details)
+ ###### [java设计模式六大原则之场景应用分析](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247483886&idx=1&sn=f49b2be549b719c9638d989731ad495d&chksm=eb476d70dc30e4665e21d52caa7eb23f3f1e6af2859811a4e16b4d0c7f04fc8163aec9395100&mpshare=1&scene=23&srcid=0302WlX24hm5OD0jWEplzpZL#rd)
+ ###### [Android 源码中的设计模式](http://blog.csdn.net/amazing7/article/details/51719404)
+ ###### [从Android代码中来记忆23种设计模式](http://blog.csdn.net/huachao1001/article/details/51536074)
+ ###### [【女朋友系列之找女朋友篇】简单工厂模式，工厂模式，抽象工厂模式](http://www.jianshu.com/p/3f824a91d73b)
+ ###### [设计模式速谈：二、简单工厂模式](https://www.yhspy.com/blog/182/)
+ ###### [Android 设计模式](http://m.blog.csdn.net/article/details?plg_nld=1&id=24985607&plg_auth=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&plg_dev=1)
+ ###### [Android设计模式之单例模式](http://mp.weixin.qq.com/s/DcN3VRyNGdAderY9hR9fgw)
+ ###### [Android 源码中的设计模式(你需要知道的设计模式全在这里)](https://github.com/helen-x/AndroidInterview/blob/master/android/Android%20%E6%BA%90%E7%A0%81%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%A8%E5%9C%A8%E8%BF%99%E9%87%8C).md)
+ ###### [design-mode](http://shili.me/2017/03/06/design-mode/)
 
 <h3 id='sql'>数据库</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [SQLite 官方文档](http://www.sqlite.org/docs.html)
-###### [SQL基础语句汇总](http://www.jcodecraeer.com/a/shujuku/2015/1024/3619.html)
-###### [Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/)
-###### [面向程序员的数据库访问性能优化法则](https://my.oschina.net/qichang/blog/198733)
+ ###### [SQLite 官方文档](http://www.sqlite.org/docs.html)
+ ###### [SQL基础语句汇总](http://www.jcodecraeer.com/a/shujuku/2015/1024/3619.html)
+ ###### [Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/)
+ ###### [面向程序员的数据库访问性能优化法则](https://my.oschina.net/qichang/blog/198733)
 
 
 <h3 id='suanfa'>算法</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [递归、尾递归与尾调用](http://bosschow.github.io/2017/02/24/recursion-and-tail-recursion/)
-###### [用Java写算法之一：冒泡排序](http://flyingcat2013.blog.51cto.com/7061638/1279334)
-###### [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
+ ###### [递归、尾递归与尾调用](http://bosschow.github.io/2017/02/24/recursion-and-tail-recursion/)
+ ###### [用Java写算法之一：冒泡排序](http://flyingcat2013.blog.51cto.com/7061638/1279334)
+ ###### [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
 
 
 <h3 id='git'>Git</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [Git学习总结](http://ikookblog.com/2016/10/15/Git%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
-###### [ProGit中文版](https://git-scm.com/book/zh/v2)
-###### [廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-###### [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-###### [从0开始学习 GitHub 系列之「Git 速成」](http://stormzhang.com/github/2016/05/30/learn-github-from-zero3/)
-###### [从0开始学习 GitHub 系列之「Git 进阶」](http://stormzhang.com/github/2016/06/16/learn-github-from-zero5/)
-###### [常用的12个Git基本命令](https://www.sdk.cn/news/2957)
-###### [闯过这 54 关，点亮你的 Git 技能树](https://codingstyle.cn/topics/51)
-###### [闯过这 54 关，点亮你的 Git 技能树 (一)](https://codingstyle.cn/topics/57)
-###### [闯过这 54 关，点亮你的 Git 技能树 (二)](https://segmentfault.com/a/1190000005123830)
-###### [常用的几十个Git小技巧分类与总结](https://segmentfault.com/a/1190000005706707)
+ ###### [Git学习总结](http://ikookblog.com/2016/10/15/Git%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
+ ###### [ProGit中文版](https://git-scm.com/book/zh/v2)
+ ###### [廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+ ###### [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+ ###### [从0开始学习 GitHub 系列之「Git 速成」](http://stormzhang.com/github/2016/05/30/learn-github-from-zero3/)
+ ###### [从0开始学习 GitHub 系列之「Git 进阶」](http://stormzhang.com/github/2016/06/16/learn-github-from-zero5/)
+ ###### [常用的12个Git基本命令](https://www.sdk.cn/news/2957)
+ ###### [闯过这 54 关，点亮你的 Git 技能树](https://codingstyle.cn/topics/51)
+ ###### [闯过这 54 关，点亮你的 Git 技能树 (一)](https://codingstyle.cn/topics/57)
+ ###### [闯过这 54 关，点亮你的 Git 技能树 (二)](https://segmentfault.com/a/1190000005123830)
+ ###### [常用的几十个Git小技巧分类与总结](https://segmentfault.com/a/1190000005706707)
 
 
 <h3 id='github'>GitHub</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [Github装逼指南——Travis CI 和 Codecov](https://segmentfault.com/a/1190000004415437)
-###### [Starred —— GitHub 增强使用工具](http://www.oschina.net/p/starred)
-###### [你与优秀源码之间只差一个Star](http://blog.fir.im/fir_im_weekly160729/?hmsr=gold.xitu.io/&utm_medium=gold.xitu.io&utm_source=gold.xitu.io)
-###### [awesome-github ：为了更好地使用 GitHub](https://gold.xitu.io/entry/56d7a0f31532bc0050741afc)
-###### [Android Studio导入github项目详解](http://blog.csdn.net/lyhhj/article/details/48789705)
-###### [如何选择开源项目？](https://zhuanlan.zhihu.com/p/20840610)
-###### [我的开源项目从0到1024的过程](http://www.jianshu.com/p/f2483bd8da43)
-###### [从0开始学习 GitHub 系列之「初识 GitHub」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661735&idx=1&sn=9aceac07d272e9202d1b5294f857a5ff&scene=21#wechat_redirect)
-###### [从0开始学习 GitHub 系列之「加入 GitHub」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661762&idx=1&sn=8282241cf7414030f4e1d315a173beb1&scene=21#wechat_redirect)
-###### [从0开始学习 GitHub 系列之「向GitHub 提交代码」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661821&idx=1&sn=c6116ed82bff2d083bb152fbd8cbc38d&scene=21#wechat_redirect)
-###### [从0开始学习 GitHub 系列之「团队合作利器 Branch」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661978&idx=1&sn=2f5329f5b2bfda7050822cc5e3a4f03f&scene=21#wechat_redirect)
-###### [从0开始学习 GitHub 系列之「如何发现优秀的开源项目」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662079&idx=1&sn=65605f0d9bd741d38f0b179980dc09f1&scene=21#wechat_redirect)
-###### [从0开始学习 GitHub 系列之「GitHub 常见的几种操作」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662303&idx=1&sn=3df7cba7cd85b33a82b4c05bb12cfff5&chksm=87d138c0b0a6b1d6140da9bab6e58c6e2b258de6118175d31c1ac467b3c58bc1a7c0b1a7db9b&scene=0#wechat_redirect)
-###### [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+ ###### [Github装逼指南——Travis CI 和 Codecov](https://segmentfault.com/a/1190000004415437)
+ ###### [Starred —— GitHub 增强使用工具](http://www.oschina.net/p/starred)
+ ###### [你与优秀源码之间只差一个Star](http://blog.fir.im/fir_im_weekly160729/?hmsr=gold.xitu.io/&utm_medium=gold.xitu.io&utm_source=gold.xitu.io)
+ ###### [awesome-github ：为了更好地使用 GitHub](https://gold.xitu.io/entry/56d7a0f31532bc0050741afc)
+ ###### [Android Studio导入github项目详解](http://blog.csdn.net/lyhhj/article/details/48789705)
+ ###### [如何选择开源项目？](https://zhuanlan.zhihu.com/p/20840610)
+ ###### [我的开源项目从0到1024的过程](http://www.jianshu.com/p/f2483bd8da43)
+ ###### [从0开始学习 GitHub 系列之「初识 GitHub」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661735&idx=1&sn=9aceac07d272e9202d1b5294f857a5ff&scene=21#wechat_redirect)
+ ###### [从0开始学习 GitHub 系列之「加入 GitHub」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661762&idx=1&sn=8282241cf7414030f4e1d315a173beb1&scene=21#wechat_redirect)
+ ###### [从0开始学习 GitHub 系列之「向GitHub 提交代码」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661821&idx=1&sn=c6116ed82bff2d083bb152fbd8cbc38d&scene=21#wechat_redirect)
+ ###### [从0开始学习 GitHub 系列之「团队合作利器 Branch」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661978&idx=1&sn=2f5329f5b2bfda7050822cc5e3a4f03f&scene=21#wechat_redirect)
+ ###### [从0开始学习 GitHub 系列之「如何发现优秀的开源项目」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662079&idx=1&sn=65605f0d9bd741d38f0b179980dc09f1&scene=21#wechat_redirect)
+ ###### [从0开始学习 GitHub 系列之「GitHub 常见的几种操作」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662303&idx=1&sn=3df7cba7cd85b33a82b4c05bb12cfff5&chksm=87d138c0b0a6b1d6140da9bab6e58c6e2b258de6118175d31c1ac467b3c58bc1a7c0b1a7db9b&scene=0#wechat_redirect)
+ ###### [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 
 
 <h3 id='computer-basis'>计算机基础</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [【不周山之读薄 CSAPP】零 系列概览](http://wdxtub.com/2016/04/16/thin-csapp-0/#comments)
-###### [【不周山之读薄 CSAPP】壹 数据表示](http://wdxtub.com/2016/04/16/thin-csapp-1/)
+ ###### [【不周山之读薄 CSAPP】零 系列概览](http://wdxtub.com/2016/04/16/thin-csapp-0/#comments)
+ ###### [【不周山之读薄 CSAPP】壹 数据表示](http://wdxtub.com/2016/04/16/thin-csapp-1/)
 
 
 <h3 id='mvp'>MVP</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [从零开始的Android新项目3 - MVPVM in Action, 谁告诉你MVP和MVVM是互斥的](http://blog.zhaiyifan.cn/2016/03/16/android-new-project-from-0-p3/)
-###### [todo-mvp--Google官方MVP推荐写法](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)
-###### [一步一步实现Android的MVP框架](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577546&idx=1&sn=e10be159645a3aa8f6d6f209420fb412&scene=0#wechat_redirect)
-###### [Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd)
-###### [MVP 实现的 Android 基础项目架构](https://github.com/xitu/gold-miner/blob/master/TODO/android-basic-project-architecture-for-mvp.md)
-###### [如何设计MVP中的Presentation层](http://blog.chengdazhi.com/index.php/115)
-###### [解读Android官方MVP项目单元测试](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0425/4178.html)
-###### [google官方架构MVP解析与实战-（从零开始搭建android框架系列（3））](http://www.jianshu.com/p/569ab68da482)
-###### [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0513/4260.html)
-###### [Android MVP+Retrofit+RxJava实践小结](http://wuxiaolong.me/2016/06/12/mvpRetrofitRxjava/)
-###### [android MVP模式介绍与实战](http://dahei.me/2016/06/22/mvp/android%20MVP%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E4%B8%8E%E5%AE%9E%E6%88%98/)
-###### [（Basic框架）Android中实现mvp模式的新思路](http://www.jianshu.com/p/31a202c0c264)
-###### [android MVP 架构思路](http://mp.weixin.qq.com/s?__biz=MzI1MjMyOTU2Ng==&mid=2247483865&idx=1&sn=28d3c2f12138e5db0b0245efb1825d4f#rd)
+ ###### [从零开始的Android新项目3 - MVPVM in Action, 谁告诉你MVP和MVVM是互斥的](http://blog.zhaiyifan.cn/2016/03/16/android-new-project-from-0-p3/)
+ ###### [todo-mvp--Google官方MVP推荐写法](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)
+ ###### [一步一步实现Android的MVP框架](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577546&idx=1&sn=e10be159645a3aa8f6d6f209420fb412&scene=0#wechat_redirect)
+ ###### [Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd)
+ ###### [MVP 实现的 Android 基础项目架构](https://github.com/xitu/gold-miner/blob/master/TODO/android-basic-project-architecture-for-mvp.md)
+ ###### [如何设计MVP中的Presentation层](http://blog.chengdazhi.com/index.php/115)
+ ###### [解读Android官方MVP项目单元测试](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0425/4178.html)
+ ###### [google官方架构MVP解析与实战-（从零开始搭建android框架系列（3））](http://www.jianshu.com/p/569ab68da482)
+ ###### [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0513/4260.html)
+ ###### [Android MVP+Retrofit+RxJava实践小结](http://wuxiaolong.me/2016/06/12/mvpRetrofitRxjava/)
+ ###### [android MVP模式介绍与实战](http://dahei.me/2016/06/22/mvp/android%20MVP%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E4%B8%8E%E5%AE%9E%E6%88%98/)
+ ###### [（Basic框架）Android中实现mvp模式的新思路](http://www.jianshu.com/p/31a202c0c264)
+ ###### [android MVP 架构思路](http://mp.weixin.qq.com/s?__biz=MzI1MjMyOTU2Ng==&mid=2247483865&idx=1&sn=28d3c2f12138e5db0b0245efb1825d4f#rd)
 
 
 <h3 id='kaiyuanxiangmu'>开源项目</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [GitHub Top 100的Android开源库](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402675429&idx=1&sn=ba3afd2069004b220eaa8a77fdecbaf7#rd)
-###### [GitHub 排名前 100 的安卓、iOS项目简介](http://www.devstore.cn/essay/essayInfo/6485.html)
-###### [Facebook开源软件列表](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597383&idx=1&sn=a867ee13f294d38d02313a4c58d3da48&scene=1&srcid=06056GdF0vD6Jp3k7AfdizSn&from=groupmessage&isappinstalled=0#wechat_redirect)
-###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
-###### [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project)
-###### [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
-###### [Android开源项目大全之工具库 ](http://www.neast.cn/forum.php?mod=viewthread&tid=5487)
-###### [GitHub开源项目总结](http://neast.cn/forum.php?mod=viewthread&tid=5377)
-###### [Android开发人员不得不收集的代码](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md)
-###### [20多个可以提高你安卓开发技能的开源app](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0214/7114.html)
-###### [Coding Android 客户端源代码](https://github.com/Coding/Coding-Android)
+ ###### [GitHub Top 100的Android开源库](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402675429&idx=1&sn=ba3afd2069004b220eaa8a77fdecbaf7#rd)
+ ###### [GitHub 排名前 100 的安卓、iOS项目简介](http://www.devstore.cn/essay/essayInfo/6485.html)
+ ###### [Facebook开源软件列表](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597383&idx=1&sn=a867ee13f294d38d02313a4c58d3da48&scene=1&srcid=06056GdF0vD6Jp3k7AfdizSn&from=groupmessage&isappinstalled=0#wechat_redirect)
+ ###### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
+ ###### [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project)
+ ###### [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
+ ###### [Android开源项目大全之工具库 ](http://www.neast.cn/forum.php?mod=viewthread&tid=5487)
+ ###### [GitHub开源项目总结](http://neast.cn/forum.php?mod=viewthread&tid=5377)
+ ###### [Android开发人员不得不收集的代码](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md)
+ ###### [20多个可以提高你安卓开发技能的开源app](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0214/7114.html)
+ ###### [Coding Android 客户端源代码](https://github.com/Coding/Coding-Android)
 
 
 <h3 id='linux'>Linux</h3>
@@ -306,84 +306,84 @@
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [Spring Boot 集成 FreeMarker 详解案例](http://www.bysocket.com/?p=1666)
-###### [SpringMVC工作原理](http://www.jianshu.com/p/ce85b9e7d650)
+ ###### [Spring Boot 集成 FreeMarker 详解案例](http://www.bysocket.com/?p=1666)
+ ###### [SpringMVC工作原理](http://www.jianshu.com/p/ce85b9e7d650)
 
 
 <h3 id='xiaolv'>效率工具</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [Android开发时，那些相见恨晚的工具或网站！](https://mp.weixin.qq.com/s/-tt3IMjIRUFvU-Xw8mjFtw)
-###### [Android Pixel计算器](http://angrytools.com/android/pixelcalc/?winzoom=1)
-###### [有了这10款逆天级效率工具，每天提前下班2小时!#DEMO8年度产品盘点#](http://www.jianshu.com/p/a3312f1c7068)
-###### [ClassyShark——apk分析利器](https://mp.weixin.qq.com/s/zieCldmExPYr_-9V6zKC3A)
-###### [Au开发者工具](http://eiyou.us/)
+ ###### [Android开发时，那些相见恨晚的工具或网站！](https://mp.weixin.qq.com/s/-tt3IMjIRUFvU-Xw8mjFtw)
+ ###### [Android Pixel计算器](http://angrytools.com/android/pixelcalc/?winzoom=1)
+ ###### [有了这10款逆天级效率工具，每天提前下班2小时!#DEMO8年度产品盘点#](http://www.jianshu.com/p/a3312f1c7068)
+ ###### [ClassyShark——apk分析利器](https://mp.weixin.qq.com/s/zieCldmExPYr_-9V6zKC3A)
+ ###### [Au开发者工具](http://eiyou.us/)
 
 
 <h3 id='kuangjia'>开源库</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [Android通用流行框架大全](https://segmentfault.com/a/1190000005073746)
-###### [Android开发常用开源框架推荐](http://www.jianshu.com/p/deb55cf2f0c1)
-###### [android-architecture(Google 官方推荐架构写法)](https://github.com/googlesamples/android-architecture/tree/master)
-###### [ButterKnife-view注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)
-###### [LeakCanary 中文使用说明](https://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
-###### [「2017年一月」最热门的5个 Android 库](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058569&idx=1&sn=daf9e3cacb8405baa6ca2ce01ca6df28&chksm=bd5655358a21dc23a3472ba5edc2d5ead8b317eb83dfd0607c2ce8a93322d7f2eb8d01d71b69&mpshare=1&scene=23&srcid=02279j6uDpZeOkJ8CuKRYLSp#rd)
-###### [2017 年又让你蠢蠢欲动 的25个 Android 开源库](http://mp.weixin.qq.com/s?__biz=MzA5NjU5MzYyMQ==&mid=2454490640&idx=1&sn=d4427a4e1f12b7db84f33df9c941ffa3&chksm=87159daab06214bc0d922464a327a31c1c6a0b93a894fe1887ed770586fdc7eeb00a278c3514&mpshare=1&scene=23&srcid=02276uIvZTMZrgehRLfxXtGd#rd)
-###### [Android-skin-support 一款用心去做的Android 换肤框架](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548826&idx=1&sn=9f72f5a052fd86591bc4a5896184c94a&chksm=f1180367c66f8a71001231c3c750aca76f5fb106e68955f30c868728f2bffb819be7081e3a33&mpshare=1&scene=23&srcid=0301IR0lx2lgW3o1e4n2lr3e#rd)
-###### [2016 Android Top 10 Library](http://stormzhang.com/2017/01/16/top-10-android-library-of-2016/)
+ ###### [Android通用流行框架大全](https://segmentfault.com/a/1190000005073746)
+ ###### [Android开发常用开源框架推荐](http://www.jianshu.com/p/deb55cf2f0c1)
+ ###### [android-architecture(Google 官方推荐架构写法)](https://github.com/googlesamples/android-architecture/tree/master)
+ ###### [ButterKnife-view注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)
+ ###### [LeakCanary 中文使用说明](https://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
+ ###### [「2017年一月」最热门的5个 Android 库](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058569&idx=1&sn=daf9e3cacb8405baa6ca2ce01ca6df28&chksm=bd5655358a21dc23a3472ba5edc2d5ead8b317eb83dfd0607c2ce8a93322d7f2eb8d01d71b69&mpshare=1&scene=23&srcid=02279j6uDpZeOkJ8CuKRYLSp#rd)
+ ###### [2017 年又让你蠢蠢欲动 的25个 Android 开源库](http://mp.weixin.qq.com/s?__biz=MzA5NjU5MzYyMQ==&mid=2454490640&idx=1&sn=d4427a4e1f12b7db84f33df9c941ffa3&chksm=87159daab06214bc0d922464a327a31c1c6a0b93a894fe1887ed770586fdc7eeb00a278c3514&mpshare=1&scene=23&srcid=02276uIvZTMZrgehRLfxXtGd#rd)
+ ###### [Android-skin-support 一款用心去做的Android 换肤框架](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548826&idx=1&sn=9f72f5a052fd86591bc4a5896184c94a&chksm=f1180367c66f8a71001231c3c750aca76f5fb106e68955f30c868728f2bffb819be7081e3a33&mpshare=1&scene=23&srcid=0301IR0lx2lgW3o1e4n2lr3e#rd)
+ ###### [2016 Android Top 10 Library](http://stormzhang.com/2017/01/16/top-10-android-library-of-2016/)
 
 <h3 id='mvc'>MVC</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [强化版mvc设计模式](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=403123455&idx=1&sn=9d414a52f2399768e61d03b3aefc3cb6#rd)
-###### [SpringMVC工作原理](http://www.jianshu.com/p/ce85b9e7d650)
+ ###### [强化版mvc设计模式](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=403123455&idx=1&sn=9d414a52f2399768e61d03b3aefc3cb6#rd)
+ ###### [SpringMVC工作原理](http://www.jianshu.com/p/ce85b9e7d650)
 
 
 <h3 id='mantan'>技术漫谈</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [Android学习之路 - stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
-###### [假如时光能够倒流， 我会这么学习Java](http://mp.weixin.qq.com/s/3Yu-A_k-NznTGv-JTlDjRA)
-###### [如何自学Android编程？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402135493&idx=1&sn=c2e040f95551082cbe2bdf7182dc3e9f&scene=21#wechat_redirect)
-###### [如何自学Android](https://segmentfault.com/a/1190000005059402)
-###### [一个2年安卓开发者的一些忠告](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/1006/6659.html)
-###### [如何自学Android - 技术文摘 - LUPA开源社区](http://www.lupaworld.com/article-258258-1.html)
-###### [程序员之路-学习经验总结分享](http://blog.csdn.net/cjpx00008/article/details/55252916)
-###### [关于Java 初学者需要知道的10件事](https://mp.weixin.qq.com/s/3nuEQP8Wz6MO7QSp2Xbp2A)
-###### [Google宣布攻破SHA-1，从此SHA-1不再安全！](http://www.infoq.com/cn/news/2017/02/google-first-sha1-collision)
-###### [[干货，阅后进BAT不是梦]面试心得与总结---BAT、网易、蘑菇街](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547962&idx=1&sn=85a1fc344644a3d6af9c46dae485a24c&scene=1&srcid=0809zIZkaIViVzpQZGtBbdRV#wechat_redirect)
-###### [技术的热门度曲线](http://www.ruanyifeng.com/blog/2017/03/gartner-hype-cycle.html)
+ ###### [Android学习之路 - stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+ ###### [假如时光能够倒流， 我会这么学习Java](http://mp.weixin.qq.com/s/3Yu-A_k-NznTGv-JTlDjRA)
+ ###### [如何自学Android编程？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402135493&idx=1&sn=c2e040f95551082cbe2bdf7182dc3e9f&scene=21#wechat_redirect)
+ ###### [如何自学Android](https://segmentfault.com/a/1190000005059402)
+ ###### [一个2年安卓开发者的一些忠告](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/1006/6659.html)
+ ###### [如何自学Android - 技术文摘 - LUPA开源社区](http://www.lupaworld.com/article-258258-1.html)
+ ###### [程序员之路-学习经验总结分享](http://blog.csdn.net/cjpx00008/article/details/55252916)
+ ###### [关于Java 初学者需要知道的10件事](https://mp.weixin.qq.com/s/3nuEQP8Wz6MO7QSp2Xbp2A)
+ ###### [Google宣布攻破SHA-1，从此SHA-1不再安全！](http://www.infoq.com/cn/news/2017/02/google-first-sha1-collision)
+ ###### [[干货，阅后进BAT不是梦]面试心得与总结---BAT、网易、蘑菇街](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547962&idx=1&sn=85a1fc344644a3d6af9c46dae485a24c&scene=1&srcid=0809zIZkaIViVzpQZGtBbdRV#wechat_redirect)
+ ###### [技术的热门度曲线](http://www.ruanyifeng.com/blog/2017/03/gartner-hype-cycle.html)
 
 
 <h3 id='mianshi'>面试题</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [这些Android面试题，你值得收藏](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247483858&idx=1&sn=78c3eb7ffb2c2df684725e97ce524126&chksm=eb476d4cdc30e45a75ee7fd015495f12e7924eeb8ae06d06961161a921cd4d0cd94874a31dc0&mpshare=1&scene=23&srcid=0302uXiAz1mWGlgHCqu3MvfS#rd)
+ ###### [这些Android面试题，你值得收藏](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247483858&idx=1&sn=78c3eb7ffb2c2df684725e97ce524126&chksm=eb476d4cdc30e45a75ee7fd015495f12e7924eeb8ae06d06961161a921cd4d0cd94874a31dc0&mpshare=1&scene=23&srcid=0302uXiAz1mWGlgHCqu3MvfS#rd)
 
 
 <h3 id='appium'>Appium</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [ Appium 简明教程 (持续更新)](https://testerhome.com/topics/1045)
-###### [阿里云测Appium文档](https://mqc.aliyun.com/doc.htm?id=15)
-###### [Appium官方Tutorial](http://appium.io/slate/en/tutorial/android.html?java#)
-###### [Windows下部署Appium教程（Android App自动化测试框架搭建）](https://my.oschina.net/outcat/blog/491529)
-###### [Appium常用方法介绍](http://blog.csdn.net/birdlee0524/article/details/52461347)
+ ###### [ Appium 简明教程 (持续更新)](https://testerhome.com/topics/1045)
+ ###### [阿里云测Appium文档](https://mqc.aliyun.com/doc.htm?id=15)
+ ###### [Appium官方Tutorial](http://appium.io/slate/en/tutorial/android.html?java#)
+ ###### [Windows下部署Appium教程（Android App自动化测试框架搭建）](https://my.oschina.net/outcat/blog/491529)
+ ###### [Appium常用方法介绍](http://blog.csdn.net/birdlee0524/article/details/52461347)
 
 
 <h3 id='qita'>其他收集类GitHub地址</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
-###### [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
-###### [Android开发资源汇总整理](https://github.com/MobDevGroup/AndroidDevelopmentTutorial)
-###### [Android 学习资料收集](https://github.com/Freelander/Android_Data)
-###### [Android 名企面试题及涉及知识点整理](https://github.com/helen-x/AndroidInterview)
-###### [Android 名企面试题及涉及知识点整理(原作者)](https://github.com/Mr-YangCheng/ForAndroidInterview)
+ ###### [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
+ ###### [Android开发资源汇总整理](https://github.com/MobDevGroup/AndroidDevelopmentTutorial)
+ ###### [Android 学习资料收集](https://github.com/Freelander/Android_Data)
+ ###### [Android 名企面试题及涉及知识点整理](https://github.com/helen-x/AndroidInterview)
+ ###### [Android 名企面试题及涉及知识点整理(原作者)](https://github.com/Mr-YangCheng/ForAndroidInterview)
