@@ -173,7 +173,10 @@
  ###### [Kotlin Primer·第一章·启程](https://www.kymjs.com/code/2017/02/03/01/)
 
 
-<h3 id='shejimoshi'>设计模式</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='shejimoshi'>设计模式</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [设计模式Java版](https://www.gitbook.com/book/quanke/design-pattern-java/details)
 ###### [java设计模式六大原则之场景应用分析](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247483886&idx=1&sn=f49b2be549b719c9638d989731ad495d&chksm=eb476d70dc30e4665e21d52caa7eb23f3f1e6af2859811a4e16b4d0c7f04fc8163aec9395100&mpshare=1&scene=23&srcid=0302WlX24hm5OD0jWEplzpZL#rd)
 ###### [Android 源码中的设计模式](http://blog.csdn.net/amazing7/article/details/51719404)
@@ -185,7 +188,10 @@
 ###### [Android 源码中的设计模式(你需要知道的设计模式全在这里)](https://github.com/helen-x/AndroidInterview/blob/master/android/Android%20%E6%BA%90%E7%A0%81%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%A8%E5%9C%A8%E8%BF%99%E9%87%8C).md)
 ###### [design-mode](http://shili.me/2017/03/06/design-mode/)
 
-<h3 id='sql'>数据库</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='sql'>数据库</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [SQLite 官方文档](http://www.sqlite.org/docs.html)
 ###### [SQL基础语句汇总](http://www.jcodecraeer.com/a/shujuku/2015/1024/3619.html)
 ###### [Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/)
