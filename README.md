@@ -94,14 +94,15 @@
   ###### [Android 开发工程师-优达学城](https://cn.udacity.com/android/)
 
 - #### 文档
-###### [Android Developer官方文档](https://developer.android.com/index.html)
-###### [Android官方培训课程中文版(v0.9.7)](http://hukai.me/android-training-course-in-chinese/index.html)
-###### [Android 官方中文(部分)培训文档](https://developer.android.google.cn/training/index.html)
-###### [wan android 知识体系](http://www.xueandroid.com/hierarchy?courseId=13)
-###### [Material Design 官方文档](https://material.io/guidelines/)
-###### [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
-###### [Android 中文API](http://www.android-doc.com/index.html)
-###### [CSDN Android 知识库](http://lib.csdn.net/base/android)
+
+  ###### [Android Developer官方文档](https://developer.android.com/index.html)
+  ###### [Android官方培训课程中文版(v0.9.7)](http://hukai.me/android-training-course-in-chinese/index.html)
+  ###### [Android 官方中文(部分)培训文档](https://developer.android.google.cn/training/index.html)
+  ###### [wan android 知识体系](http://www.xueandroid.com/hierarchy?courseId=13)
+  ###### [Material Design 官方文档](https://material.io/guidelines/)
+  ###### [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
+  ###### [Android 中文API](http://www.android-doc.com/index.html)
+  ###### [CSDN Android 知识库](http://lib.csdn.net/base/android)
 
 - #### 开源库
 ###### [「2017年一月」最热门的5个 Android 库](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058569&idx=1&sn=daf9e3cacb8405baa6ca2ce01ca6df28&chksm=bd5655358a21dc23a3472ba5edc2d5ead8b317eb83dfd0607c2ce8a93322d7f2eb8d01d71b69&mpshare=1&scene=23&srcid=02279j6uDpZeOkJ8CuKRYLSp#rd)
