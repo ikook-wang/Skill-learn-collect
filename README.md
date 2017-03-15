@@ -198,13 +198,19 @@
 ###### [面向程序员的数据库访问性能优化法则](https://my.oschina.net/qichang/blog/198733)
 
 
-<h3 id='suanfa'>算法</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='suanfa'>算法</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [递归、尾递归与尾调用](http://bosschow.github.io/2017/02/24/recursion-and-tail-recursion/)
 ###### [用Java写算法之一：冒泡排序](http://flyingcat2013.blog.51cto.com/7061638/1279334)
 ###### [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
 
 
-<h3 id='git'>Git</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='git'>Git</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [Git学习总结](http://ikookblog.com/2016/10/15/Git%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/)
 ###### [ProGit中文版](https://git-scm.com/book/zh/v2)
 ###### [廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
@@ -218,7 +224,10 @@
 ###### [常用的几十个Git小技巧分类与总结](https://segmentfault.com/a/1190000005706707)
 
 
-<h3 id='github'>GitHub</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='github'>GitHub</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [Github装逼指南——Travis CI 和 Codecov](https://segmentfault.com/a/1190000004415437)
 ###### [Starred —— GitHub 增强使用工具](http://www.oschina.net/p/starred)
 ###### [你与优秀源码之间只差一个Star](http://blog.fir.im/fir_im_weekly160729/?hmsr=gold.xitu.io/&utm_medium=gold.xitu.io&utm_source=gold.xitu.io)
@@ -235,12 +244,18 @@
 ###### [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 
 
-<h3 id='computer-basis'>计算机基础</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='computer-basis'>计算机基础</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [【不周山之读薄 CSAPP】零 系列概览](http://wdxtub.com/2016/04/16/thin-csapp-0/#comments)
 ###### [【不周山之读薄 CSAPP】壹 数据表示](http://wdxtub.com/2016/04/16/thin-csapp-1/)
 
 
-<h3 id='mvp'>MVP</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='mvp'>MVP</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [从零开始的Android新项目3 - MVPVM in Action, 谁告诉你MVP和MVVM是互斥的](http://blog.zhaiyifan.cn/2016/03/16/android-new-project-from-0-p3/)
 ###### [todo-mvp--Google官方MVP推荐写法](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)
 ###### [一步一步实现Android的MVP框架](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577546&idx=1&sn=e10be159645a3aa8f6d6f209420fb412&scene=0#wechat_redirect)
@@ -256,7 +271,10 @@
 ###### [android MVP 架构思路](http://mp.weixin.qq.com/s?__biz=MzI1MjMyOTU2Ng==&mid=2247483865&idx=1&sn=28d3c2f12138e5db0b0245efb1825d4f#rd)
 
 
-<h3 id='kaiyuanxiangmu'>开源项目</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='kaiyuanxiangmu'>开源项目</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [GitHub Top 100的Android开源库](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402675429&idx=1&sn=ba3afd2069004b220eaa8a77fdecbaf7#rd)
 ###### [GitHub 排名前 100 的安卓、iOS项目简介](http://www.devstore.cn/essay/essayInfo/6485.html)
 ###### [Facebook开源软件列表](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597383&idx=1&sn=a867ee13f294d38d02313a4c58d3da48&scene=1&srcid=06056GdF0vD6Jp3k7AfdizSn&from=groupmessage&isappinstalled=0#wechat_redirect)
@@ -270,23 +288,32 @@
 ###### [Coding Android 客户端源代码](https://github.com/Coding/Coding-Android)
 
 
-<h3 id='linux'>Linux</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='linux'>Linux</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 - #### Blogs
-###### [非常全面的Linux知识点总结](http://www.codeceo.com/article/linux-tips.html)
-###### [我是如何学习Linux的](https://www.sdk.cn/news/3230)
-###### [Linux中查找命令总结](http://www.36nu.com/post/124.html)
-###### [ubuntu 工具 -- 5分钟入手Terminator](http://www.jianshu.com/p/cee2de32ca28)
+  ###### [非常全面的Linux知识点总结](http://www.codeceo.com/article/linux-tips.html)
+  ###### [我是如何学习Linux的](https://www.sdk.cn/news/3230)
+  ###### [Linux中查找命令总结](http://www.36nu.com/post/124.html)
+  ###### [ubuntu 工具 -- 5分钟入手Terminator](http://www.jianshu.com/p/cee2de32ca28)
 
 - #### 视频
-###### [Linux服务器基础](http://study.163.com/course/introduction.htm?courseId=788001#/courseDetail)
+  ###### [Linux服务器基础](http://study.163.com/course/introduction.htm?courseId=788001#/courseDetail)
 
 
-<h3 id='spring'>Spring</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='spring'>Spring</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [Spring Boot 集成 FreeMarker 详解案例](http://www.bysocket.com/?p=1666)
 ###### [SpringMVC工作原理](http://www.jianshu.com/p/ce85b9e7d650)
 
 
-<h3 id='xiaolv'>效率工具</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='xiaolv'>效率工具</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [Android开发时，那些相见恨晚的工具或网站！](https://mp.weixin.qq.com/s/-tt3IMjIRUFvU-Xw8mjFtw)
 ###### [Android Pixel计算器](http://angrytools.com/android/pixelcalc/?winzoom=1)
 ###### [有了这10款逆天级效率工具，每天提前下班2小时!#DEMO8年度产品盘点#](http://www.jianshu.com/p/a3312f1c7068)
@@ -294,7 +321,10 @@
 ###### [Au开发者工具](http://eiyou.us/)
 
 
-<h3 id='kuangjia'>开源库</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='kuangjia'>开源库</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [Android通用流行框架大全](https://segmentfault.com/a/1190000005073746)
 ###### [Android开发常用开源框架推荐](http://www.jianshu.com/p/deb55cf2f0c1)
 ###### [android-architecture(Google 官方推荐架构写法)](https://github.com/googlesamples/android-architecture/tree/master)
@@ -305,12 +335,18 @@
 ###### [Android-skin-support 一款用心去做的Android 换肤框架](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548826&idx=1&sn=9f72f5a052fd86591bc4a5896184c94a&chksm=f1180367c66f8a71001231c3c750aca76f5fb106e68955f30c868728f2bffb819be7081e3a33&mpshare=1&scene=23&srcid=0301IR0lx2lgW3o1e4n2lr3e#rd)
 ###### [2016 Android Top 10 Library](http://stormzhang.com/2017/01/16/top-10-android-library-of-2016/)
 
-<h3 id='mvc'>MVC</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='mvc'>MVC</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [强化版mvc设计模式](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=403123455&idx=1&sn=9d414a52f2399768e61d03b3aefc3cb6#rd)
 ###### [SpringMVC工作原理](http://www.jianshu.com/p/ce85b9e7d650)
 
 
-<h3 id='mantan'>技术漫谈</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='mantan'>技术漫谈</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [Android学习之路 - stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 ###### [假如时光能够倒流， 我会这么学习Java](http://mp.weixin.qq.com/s/3Yu-A_k-NznTGv-JTlDjRA)
 ###### [如何自学Android编程？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402135493&idx=1&sn=c2e040f95551082cbe2bdf7182dc3e9f&scene=21#wechat_redirect)
@@ -324,11 +360,17 @@
 ###### [技术的热门度曲线](http://www.ruanyifeng.com/blog/2017/03/gartner-hype-cycle.html)
 
 
-<h3 id='mianshi'>面试题</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='mianshi'>面试题</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [这些Android面试题，你值得收藏](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247483858&idx=1&sn=78c3eb7ffb2c2df684725e97ce524126&chksm=eb476d4cdc30e45a75ee7fd015495f12e7924eeb8ae06d06961161a921cd4d0cd94874a31dc0&mpshare=1&scene=23&srcid=0302uXiAz1mWGlgHCqu3MvfS#rd)
 
 
-<h3 id='appium'>Appium</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='appium'>Appium</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [ Appium 简明教程 (持续更新)](https://testerhome.com/topics/1045)
 ###### [阿里云测Appium文档](https://mqc.aliyun.com/doc.htm?id=15)
 ###### [Appium官方Tutorial](http://appium.io/slate/en/tutorial/android.html?java#)
@@ -336,7 +378,10 @@
 ###### [Appium常用方法介绍](http://blog.csdn.net/birdlee0524/article/details/52461347)
 
 
-<h3 id='qita'>其他收集类GitHub地址</h3>[:arrow_up:](#tags) : 点击回到Tags
+<h3 id='qita'>其他收集类GitHub地址</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
 ###### [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
 ###### [Android开发资源汇总整理](https://github.com/MobDevGroup/AndroidDevelopmentTutorial)
 ###### [Android 学习资料收集](https://github.com/Freelander/Android_Data)
