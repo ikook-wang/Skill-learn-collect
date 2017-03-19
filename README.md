@@ -367,6 +367,7 @@
 [:arrow_up:](#tags) : 点击回到Tags
 
  ###### [这些Android面试题，你值得收藏](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247483858&idx=1&sn=78c3eb7ffb2c2df684725e97ce524126&chksm=eb476d4cdc30e45a75ee7fd015495f12e7924eeb8ae06d06961161a921cd4d0cd94874a31dc0&mpshare=1&scene=23&srcid=0302uXiAz1mWGlgHCqu3MvfS#rd)
+ ###### [软件工程技术面试个人指南](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
 
 
 <h3 id='appium'>Appium</h3>
