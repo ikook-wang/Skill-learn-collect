@@ -287,7 +287,7 @@
  ###### [Android开发人员不得不收集的代码](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md)
  ###### [20多个可以提高你安卓开发技能的开源app](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0214/7114.html)
  ###### [Coding Android 客户端源代码](https://github.com/Coding/Coding-Android)
-
+ ###### [高仿微信6.5.7（融云版）](https://git.oschina.net/CSDNLQR/lqrwechatrongcloud)
 
 <h3 id='linux'>Linux</h3>
 
