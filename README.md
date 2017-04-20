@@ -360,7 +360,9 @@
  ###### [[干货，阅后进BAT不是梦]面试心得与总结---BAT、网易、蘑菇街](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547962&idx=1&sn=85a1fc344644a3d6af9c46dae485a24c&scene=1&srcid=0809zIZkaIViVzpQZGtBbdRV#wechat_redirect)
  ###### [技术的热门度曲线](http://www.ruanyifeng.com/blog/2017/03/gartner-hype-cycle.html)
  ###### [技术大牛养成指南，一篇不鸡汤的成功学实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650995517&idx=1&sn=d57f6d473b541fc7892e6a12fcd2a244&chksm=bdbf036e8ac88a7806a212ef90b2e4d4bfcdbd98c5f7d1b8be9cc891a19e5372ea01007a1756&mpshare=1&scene=23&srcid=03010fuaUL8dEiCNG5mzM5tA#rd)
-
+ ###### [大学生面试见闻录1-鬼脚七](https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5OTM3NjIyMA==&appmsgid=10000801&itemidx=1&sign=d284d83579146c29d478365186cf02a8#wechat_redirect)
+ ###### [大学生面试见闻录2-鬼脚七](https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5OTM3NjIyMA==&appmsgid=10000807&itemidx=1&sign=f5a3d86ccd39ea145f4cae96fb4c9b84#wechat_redirect)
+ 
 
 <h3 id='mianshi'>面试题</h3>
 
