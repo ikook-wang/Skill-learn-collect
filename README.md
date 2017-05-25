@@ -1,5 +1,3 @@
-[English](https://github.com/china-kook/Skill-learn-collect/blob/master/README_english.md)|中文
-
 # Skill-learn-collect
 收集在学习和提高技术过程中遇到的比较有价值的网站、文档、Blog等，方便自己查阅。
 
@@ -288,6 +286,7 @@
  ###### [20多个可以提高你安卓开发技能的开源app](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0214/7114.html)
  ###### [Coding Android 客户端源代码](https://github.com/Coding/Coding-Android)
  ###### [高仿微信6.5.7（融云版）](https://git.oschina.net/CSDNLQR/lqrwechatrongcloud)
+ ###### [Android开源项目](http://mobdevgroup.com/platform/android/project)
 
 <h3 id='linux'>Linux</h3>
 
