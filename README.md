@@ -9,9 +9,9 @@
 [Android](#android)&emsp;&emsp;
 [Java](#java)&emsp;&emsp;
 [Kotlin](#kotlin)&emsp;&emsp;
+[Gradle](#gradle)&emsp;&emsp;
 [设计模式](#shejimoshi)&emsp;&emsp;
 [Android/Android Studio 相关](#android-studio)&emsp;&emsp;
-[Gradle](#gradle)&emsp;&emsp;
 [数据库](#sql)&emsp;&emsp;
 [算法](#suanfa)&emsp;&emsp;
 [Git](#git)&emsp;&emsp;
