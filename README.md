@@ -10,12 +10,13 @@
 [Java](#java)&emsp;&emsp;
 [Kotlin](#kotlin)&emsp;&emsp;
 [设计模式](#shejimoshi)&emsp;&emsp;
-[Android\Android Studio 相关](#android-studio)&emsp;&emsp;
+[Android/Android Studio 相关](#android-studio)&emsp;&emsp;
+[Gradle](#gradle)&emsp;&emsp;
 [数据库](#sql)&emsp;&emsp;
 [算法](#suanfa)&emsp;&emsp;
 [Git](#git)&emsp;&emsp;
 [GitHub](#github)&emsp;&emsp;
-[Android\View&UI 相关](#view-ui)&emsp;&emsp;
+[Android/View&UI 相关](#view-ui)&emsp;&emsp;
 [计算机基础](#computer-basis)&emsp;&emsp;
 [MVP](#mvp)&emsp;&emsp;
 [OkHttp](#okhttp)&emsp;&emsp;
@@ -25,7 +26,7 @@
 [效率工具](#xiaolv)&emsp;&emsp;
 [MVC](#mvc)&emsp;&emsp;
 [开源库](#kuangjia)&emsp;&emsp;
-[Android\Material Design 相关](#material-design)&emsp;&emsp;
+[Android/Material Design 相关](#material-design)&emsp;&emsp;
 [技术漫谈](#mantan)&emsp;&emsp;
 [面试题](#mianshi)&emsp;&emsp;
 [Appium](#appium)&emsp;&emsp;
@@ -38,6 +39,9 @@
 [:arrow_up:](#tags) : 点击回到Tags
 
 - #### Blogs
+
+    ###### [Android的线程池：ExecutorService和Executors简单介绍](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2013/0304/958.html)
+
    <h4 id='view-ui'>View&UI 相关</h4>
 
     ###### [Android RecyclerView 顶部悬浮实现](http://www.jianshu.com/p/c596f2e6f587)
@@ -140,6 +144,8 @@
   ###### [面试的角度诠释Java工程师（一）](http://www.jianshu.com/p/e4ba72acffa9#)
   ###### [面试的角度诠释Java工程师（二）](http://www.jianshu.com/p/a0b8b6f17888)
   ###### [Google 推出的 Java 编码规范](https://segmentfault.com/a/1190000002761014)
+  ###### [Java 原子操作 AtomicInteger 的用法](http://www.jianshu.com/p/509aca840f6d)
+  ###### [Java 线程安全和非线程安全](http://blog.csdn.net/xiao__gui/article/details/8934832)
 
 - #### 视频
   ###### [Servlet+JSP（JavaEE开发进阶Ⅰ）](http://study.163.com/course/introduction.htm?courseId=1002907014#/courseDetail)
@@ -170,6 +176,13 @@
  ###### [Kotlin for Android Developers 中文翻译](https://www.gitbook.com/book/wangjiegulu/kotlin-for-android-developers-zh/details)
  ###### [Kotlin 从入门到『放弃』系列 视频教程](https://github.com/enbandari/Kotlin-Tutorials)
  ###### [Kotlin Primer·第一章·启程](https://www.kymjs.com/code/2017/02/03/01/)
+
+
+<h3 id='gradle'>Gradle</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
+ ###### [深入理解 Android 之 Gradle](http://wiki.jikexueyuan.com/project/deep-android-gradle/)
 
 
 <h3 id='shejimoshi'>设计模式</h3>
