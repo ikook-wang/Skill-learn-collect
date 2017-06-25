@@ -146,7 +146,7 @@
   ###### [Google 推出的 Java 编码规范](https://segmentfault.com/a/1190000002761014)
   ###### [Java 原子操作 AtomicInteger 的用法](http://www.jianshu.com/p/509aca840f6d)
   ###### [Java 线程安全和非线程安全](http://blog.csdn.net/xiao__gui/article/details/8934832)
-  ###### [ Java多线程:ThreadPoolExecutor详解](http://blog.csdn.net/java2000_wl/article/details/22097059)
+  ###### [Java多线程:ThreadPoolExecutor详解](http://blog.csdn.net/java2000_wl/article/details/22097059)
 
 - #### 视频
   ###### [Servlet+JSP（JavaEE开发进阶Ⅰ）](http://study.163.com/course/introduction.htm?courseId=1002907014#/courseDetail)
