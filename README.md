@@ -89,6 +89,7 @@
     ###### [Android模版化编程系列（二）](http://blog.csdn.net/qq_15028795/article/details/51939047)
     ###### [Android Studio 2.2 中几个实用的新功能](http://www.jianshu.com/p/bc9bbac5a170)
     ###### [Android Studio 2.3 正式版新功能，你不来看看？！](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548850&idx=1&sn=0251597577d644bb2f600aa04cb27895&chksm=f118034fc66f8a596bec2a6baeeebd548eb854fca78af9f12dc0c17d7633735126dce7e583c2&mpshare=1&scene=23&srcid=0306tW8C8tlcySFFmUuJS6dn#rd)
+    ###### [Android Studio 使用正式签名进行调试](http://blog.csdn.net/yyh352091626/article/details/50915357)
 
 - #### 视频
 
