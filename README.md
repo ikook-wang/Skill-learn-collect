@@ -9,6 +9,7 @@
 [Android](#android)&emsp;&emsp;
 [Java](#java)&emsp;&emsp;
 [Kotlin](#kotlin)&emsp;&emsp;
+[JavaScript](#js)&emsp;&emsp;
 [Gradle](#gradle)&emsp;&emsp;
 [设计模式](#shejimoshi)&emsp;&emsp;
 [Android/Android Studio 相关](#android-studio)&emsp;&emsp;
@@ -178,6 +179,12 @@
  ###### [Kotlin for Android Developers 中文翻译](https://www.gitbook.com/book/wangjiegulu/kotlin-for-android-developers-zh/details)
  ###### [Kotlin 从入门到『放弃』系列 视频教程](https://github.com/enbandari/Kotlin-Tutorials)
  ###### [Kotlin Primer·第一章·启程](https://www.kymjs.com/code/2017/02/03/01/)
+
+ <h3 id='js'>JavaScript</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
+###### [廖雪峰 JavaScript 全栈教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 
 
 <h3 id='gradle'>Gradle</h3>
