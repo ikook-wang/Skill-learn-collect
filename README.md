@@ -185,6 +185,7 @@
 ###### [廖雪峰 JavaScript 全栈教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 ###### [JavaScript 参考文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference)
 ###### [学习Javascript闭包(阮一峰老师的文章)](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
+###### [Number 调用 toString() 方法产生的问题](http://www.zuojj.com/archives/888.html)
 
 <h3 id='gradle'>Gradle</h3>
 
