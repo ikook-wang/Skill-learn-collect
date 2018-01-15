@@ -187,6 +187,8 @@
 ###### [学习Javascript闭包(阮一峰老师的文章)](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
 ###### [Number 调用 toString() 方法产生的问题](http://www.zuojj.com/archives/888.html)
 ###### [Javascript 面向对象编程（一）：封装](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
+###### [Javascript面向对象编程（二）：构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance.html)
+###### [Javascript面向对象编程（三）：非构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance_continued.html)
 
 <h3 id='gradle'>Gradle</h3>
 
