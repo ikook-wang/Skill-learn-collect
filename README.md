@@ -15,6 +15,7 @@
 [算法](#suanfa)&emsp;&emsp;
 [Git](#git)&emsp;&emsp;
 [GitHub](#github)&emsp;&emsp;
+[正则表达式](#regexp)&emsp;&emsp;
 [Android/View&UI 相关](#view-ui)&emsp;&emsp;
 [计算机基础](#computer-basis)&emsp;&emsp;
 [MVP](#mvp)&emsp;&emsp;
@@ -211,6 +212,16 @@
  ###### [Android设计模式之单例模式](http://mp.weixin.qq.com/s/DcN3VRyNGdAderY9hR9fgw)
  ###### [Android 源码中的设计模式(你需要知道的设计模式全在这里)](https://github.com/helen-x/AndroidInterview/blob/master/android/Android%20%E6%BA%90%E7%A0%81%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%A8%E5%9C%A8%E8%BF%99%E9%87%8C).md)
  ###### [design-mode](http://shili.me/2017/03/06/design-mode/)
+
+
+<h3 id='regexp'>=正则表达式</h3>
+
+[:arrow_up:](#tags) : 点击回到Tags
+
+ ###### [正则表达式 30 分钟入门教程](http://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
+ ###### [正则表达式 – 教程 | 菜鸟教程](http://www.runoob.com/regexp/regexp-tutorial.html)
+
+ 
 
 <h3 id='sql'>数据库</h3>
 
