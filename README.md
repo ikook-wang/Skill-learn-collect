@@ -214,7 +214,7 @@
  ###### [design-mode](http://shili.me/2017/03/06/design-mode/)
 
 
-<h3 id='regexp'>=正则表达式</h3>
+<h3 id='regexp'>正则表达式</h3>
 
 [:arrow_up:](#tags) : 点击回到Tags
 
